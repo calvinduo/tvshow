@@ -3,176 +3,269 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- 【核心防盗链破解】这行代码确保 DMM 的图片能在你的网页上正常显示 -->
     <meta name="referrer" content="no-referrer" />
-    <title>DMM 即将下架独家影片</title>
+    <title>DMM Premium | 即将下架独占影片</title>
     <style>
-        /* 现代暗黑风格主题 */
+        /* 尊享版暗黑主题变量 */
         :root {
-            --bg-color: #121212;
-            --card-bg: #1e1e1e;
-            --text-main: #f1f1f1;
-            --text-muted: #a0a0a0;
-            --accent: #ff4757;
-            --hover-accent: #ff6b81;
+            --bg-base: #0b0b0e;
+            --bg-card: #15151a;
+            --bg-hover: #1e1e24;
+            --text-main: #f5f5f7;
+            --text-muted: #8e8e93;
+            --accent-primary: #ff2a5f;
+            --accent-glow: rgba(255, 42, 95, 0.4);
+            --score-color: #ffd700;
         }
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg-color);
+            font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+            background-color: var(--bg-base);
             color: var(--text-main);
             margin: 0;
-            padding: 20px;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
         }
-        .header {
+
+        /* 顶部导航栏 */
+        .navbar {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(11, 11, 14, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            padding: 20px 0;
             text-align: center;
-            margin-bottom: 40px;
-            padding: 20px 10px;
-            border-bottom: 1px solid #333;
         }
-        .header h1 {
-            margin: 0 0 10px 0;
-            color: var(--accent);
-            font-size: 2em;
+
+        .navbar h1 {
+            margin: 0;
+            font-size: 1.8em;
+            font-weight: 800;
+            letter-spacing: 1px;
+            background: linear-gradient(90deg, #fff, var(--accent-primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
-        .stats {
+
+        .navbar p {
+            margin: 8px 0 0 0;
             color: var(--text-muted);
-            font-size: 1em;
+            font-size: 0.95em;
         }
-        
-        /* 自适应网格布局：手机上单列，电脑上多列 */
-        .video-grid {
+
+        .highlight { color: var(--accent-primary); font-weight: bold; }
+
+        /* 主体内容区 */
+        .container {
+            max-width: 1600px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        /* 自适应网格布局 */
+        .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 25px;
-            max-width: 1400px;
-            margin: 0 auto;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 30px;
         }
-        
-        /* 影片卡片样式 */
+
+        /* 卡片设计 */
         .card {
-            background-color: var(--card-bg);
-            border-radius: 12px;
+            background: var(--bg-card);
+            border-radius: 16px;
             overflow: hidden;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            border: 1px solid rgba(255,255,255,0.04);
             display: flex;
             flex-direction: column;
-            border: 1px solid #2a2a2a;
+            text-decoration: none;
+            color: inherit;
         }
+
         .card:hover {
-            transform: translateY(-8px);
-            box-shadow: 0 12px 20px rgba(0,0,0,0.6);
-            border-color: var(--accent);
+            transform: translateY(-10px);
+            background: var(--bg-hover);
+            border-color: rgba(255, 42, 95, 0.3);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.5), 0 0 20px var(--accent-glow);
         }
-        .card img {
+
+        /* 封面图区域 (强制 16:9 比例) */
+        .card-thumb {
+            position: relative;
             width: 100%;
-            height: auto;
-            object-fit: cover;
-            border-bottom: 2px solid var(--accent);
-            background-color: #222; /* 图片加载前的背景色 */
-            aspect-ratio: 16/9; /* 避免图片加载时页面抖动 */
+            padding-top: 56.25%; /* 16:9 Aspect Ratio */
+            background-color: #111;
+            overflow: hidden;
         }
-        .card-content {
-            padding: 16px;
+
+        .card-thumb img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .card:hover .card-thumb img {
+            transform: scale(1.05);
+        }
+
+        /* 悬浮标签 */
+        .badge-group {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            right: 10px;
+            display: flex;
+            justify-content: space-between;
+            pointer-events: none;
+        }
+
+        .badge {
+            background: rgba(0, 0, 0, 0.75);
+            backdrop-filter: blur(4px);
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.8em;
+            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        }
+
+        .badge-score { color: var(--score-color); }
+        .badge-date { color: var(--accent-primary); }
+
+        /* 卡片内容区 */
+        .card-body {
+            padding: 20px;
             flex-grow: 1;
             display: flex;
             flex-direction: column;
         }
-        .card-title {
-            font-size: 1.05em;
-            font-weight: bold;
-            margin: 0 0 12px 0;
+
+        /* ID行 */
+        .meta-row {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .video-id {
+            background: rgba(255,255,255,0.05);
+            padding: 4px 10px;
+            border-radius: 4px;
+            color: var(--text-main);
+            font-family: "SFMono-Regular", Consolas, monospace;
+            font-size: 0.85em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        /* 标题与描述 */
+        .title {
+            font-size: 1.1em;
+            font-weight: 600;
             line-height: 1.5;
-            color: #fff;
-            /* 限制标题最多显示 3 行 */
+            margin: 0 0 10px 0;
             display: -webkit-box;
-            -webkit-line-clamp: 3;
+            -webkit-line-clamp: 2; /* 限制2行 */
             -webkit-box-orient: vertical;
             overflow: hidden;
         }
-        .card-meta {
-            font-size: 0.9em;
+
+        .description {
+            font-size: 0.85em;
             color: var(--text-muted);
-            margin-bottom: 8px;
-            display: flex;
-            align-items: center;
+            line-height: 1.6;
+            margin: 0;
+            display: -webkit-box;
+            -webkit-line-clamp: 3; /* 限制3行 */
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            margin-top: auto; /* 将描述推到最底部 */
         }
-        .score { color: #f1c40f; font-weight: bold; margin-left: 5px; }
-        .date { color: var(--hover-accent); font-weight: bold; margin-left: 5px; }
-        .id-badge {
-            background: #333;
-            padding: 3px 8px;
-            border-radius: 4px;
-            font-family: Consolas, monospace;
-            color: #fff;
-            margin-left: 5px;
-            letter-spacing: 0.5px;
+
+        /* 状态提示 */
+        .status-msg {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2em;
+            color: var(--text-muted);
         }
-        
+
         /* 响应式调整 */
-        @media (max-width: 600px) {
-            .video-grid {
-                grid-template-columns: 1fr;
-            }
-            .header h1 {
-                font-size: 1.5em;
-            }
+        @media (max-width: 768px) {
+            .grid { grid-template-columns: 1fr; }
+            .navbar h1 { font-size: 1.5em; }
         }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <h1>🚨 DMM TV 独家即将下架影片</h1>
-        <div class="stats" id="stats">努力加载数据中，请稍候...</div>
-    </div>
+    <nav class="navbar">
+        <h1>DMM Premium 独占大赏</h1>
+        <p id="stats">正在从 Github 获取最新下架情报...</p>
+    </nav>
 
-    <div class="video-grid" id="video-grid">
-        <!-- JavaScript 将从 JSON 中读取数据并在这里生成卡片 -->
+    <div class="container">
+        <div id="grid" class="grid">
+            </div>
+        <div id="error-msg" class="status-msg" style="display: none;"></div>
     </div>
 
     <script>
-        // 获取 Python 脚本自动生成的 JSON 文件
+        // 获取并渲染 JSON 数据
         fetch('dmm_ending_soon_exclusive.json')
             .then(response => {
-                if (!response.ok) {
-                    throw new Error('未找到数据文件，请确认 GitHub Actions 是否运行成功');
-                }
+                if (!response.ok) throw new Error('数据文件 dmm_ending_soon_exclusive.json 不存在，请等待 Actions 运行完毕。');
                 return response.json();
             })
             .then(data => {
-                const statsDiv = document.getElementById('stats');
-                statsDiv.innerHTML = `共发现 <b style="color:var(--accent); font-size: 1.2em;">${data.length}</b> 部独家影片`;
-                
-                const grid = document.getElementById('video-grid');
+                document.getElementById('stats').innerHTML = `为您精选 <span class="highlight">${data.length}</span> 部即将下架影片`;
+                const grid = document.getElementById('grid');
                 
                 data.forEach(video => {
-                    // 数据格式化处理
+                    // 数据清洗与格式化
                     const endDate = video.endDeliveryAt ? video.endDeliveryAt.substring(0, 10) : '未知';
-                    const score = video.averageReviewPoint || '暂无';
-                    // 优先使用大图，如果没有则使用小图
+                    const score = video.averageReviewPoint ? Number(video.averageReviewPoint).toFixed(1) : '暂无';
                     const imgUrl = video.packageLargeImage || video.packageImage;
+                    const desc = video.description || '暂无详细描述...';
+                    const title = video.title || '未知标题';
 
-                    // 构建单张卡片
-                    const card = document.createElement('div');
-                    card.className = 'card';
-                    card.innerHTML = `
-                        <a href="https://tv.dmm.co.jp/vod/detail/?title_id=${video.id}" target="_blank" title="点击前往 DMM TV 观看">
-                            <img src="${imgUrl}" alt="${video.id}" loading="lazy" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'400\\' height=\\'225\\' viewBox=\\'0 0 400 225\\'%3E%3Crect width=\\'400\\' height=\\'225\\' fill=\\'%23333\\'/%3E%3Ctext x=\\'50%25\\' y=\\'50%25\\' fill=\\'%23777\\' font-family=\\'Arial\\' font-size=\\'18\\' text-anchor=\\'middle\\' dy=\\'6\\'%3E图片加载失败%3C/text%3E%3C/svg%3E'">
+                    // 构建 HTML 卡片
+                    const cardHTML = `
+                        <a href="https://tv.dmm.co.jp/vod/detail/?title_id=${video.id}" target="_blank" class="card">
+                            <div class="card-thumb">
+                                <img src="${imgUrl}" alt="${video.id}" loading="lazy" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'800\\' height=\\'450\\' viewBox=\\'0 0 800 450\\'%3E%3Crect width=\\'800\\' height=\\'450\\' fill=\\'%23222\\'/%3E%3Ctext x=\\'50%25\\' y=\\'50%25\\' fill=\\'%23666\\' font-family=\\'Arial\\' font-size=\\'24\\' text-anchor=\\'middle\\' dy=\\'8\\'%3E封面加载失败%3C/text%3E%3C/svg%3E'">
+                                <div class="badge-group">
+                                    <span class="badge badge-score">⭐ ${score}</span>
+                                    <span class="badge badge-date">⏳ 倒计时: ${endDate}</span>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div class="meta-row">
+                                    <span class="video-id">ID: ${video.id}</span>
+                                </div>
+                                <h3 class="title" title="${title}">${title}</h3>
+                                <p class="description" title="${desc}">${desc}</p>
+                            </div>
                         </a>
-                        <div class="card-content">
-                            <div class="card-title" title="${video.title}">${video.title}</div>
-                            <div class="card-meta">标识 <span class="id-badge">${video.id}</span></div>
-                            <div class="card-meta">评分 <span class="score">⭐ ${score}</span></div>
-                            <div class="card-meta">下架 <span class="date">⏳ ${endDate}</span></div>
-                        </div>
                     `;
-                    grid.appendChild(card);
+                    grid.insertAdjacentHTML('beforeend', cardHTML);
                 });
             })
             .catch(error => {
-                document.getElementById('stats').innerHTML = `<span style="color:var(--accent);">数据加载失败：${error.message}</span>`;
-                console.error('Error fetching JSON:', error);
+                const errorDiv = document.getElementById('error-msg');
+                errorDiv.style.display = 'block';
+                errorDiv.innerHTML = `⚠️ <br><br> ${error.message}`;
+                document.getElementById('stats').innerHTML = "数据加载失败";
+                console.error(error);
             });
     </script>
 </body>
