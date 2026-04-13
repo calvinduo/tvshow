@@ -1,6 +1,7 @@
 import requests
 import time
 import json
+import os
 from datetime import datetime
 
 def fetch_dmm_ending_soon_ids():
@@ -18,14 +19,26 @@ def fetch_dmm_ending_soon_ids():
         "cookie": "age_check_done=1"
     }
 
-    # GraphQL 原始查询语句
+    # 修复 422 错误：恢复 DMM 标准的 GraphQL 查询格式，严格遵守参数定义
     graphql_query = """query FetchFanzaTvPlusSearch($device: Device!, $keyword: String, $castIds: [String!], $genreIds: [String!], $makerIds: [String!], $seriesIds: [String!], $labelIds: [String!], $ppvShop: FanzaPPVShop, $viewingPlan: FanzaTvViewingPlan, $isForeign: Boolean, $isChildNg: Boolean, $sort: FanzaSvodSortKey, $first: Int, $after: String) {
   fanzaTvPlus(device: $device) {
     search(
-      keyword: $keyword, sort: $sort, first: $first, after: $after,
-      isForeign: $isForeign, device: $device
+      keyword: $keyword
+      castIds: $castIds
+      genreIds: $genreIds
+      makerIds: $makerIds
+      seriesIds: $seriesIds
+      labelIds: $labelIds
+      ppvShop: $ppvShop
+      viewingPlan: $viewingPlan
+      isForeign: $isForeign
+      isChildNg: $isChildNg
+      sort: $sort
+      first: $first
+      after: $after
     ) {
       edges {
+        cursor
         node {
           id
           title
@@ -37,7 +50,10 @@ def fetch_dmm_ending_soon_ids():
           endDeliveryAt
         }
       }
-      pageInfo { endCursor hasNextPage }
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
       total
     }
   }
@@ -51,7 +67,7 @@ def fetch_dmm_ending_soon_ids():
     print(">>> 阶段 1: 开始抓取 DMM TV 即将下架影片详细信息 (直连模式) ...")
 
     while has_next_page:
-        # 获取 ALL 计划的影片（不传 viewingPlan 参数）
+        # 获取 ALL 计划的影片
         variables = {
             "sort": "DELIVERY_ENDING_SOON",
             "device": "BROWSER",
@@ -94,6 +110,13 @@ def fetch_dmm_ending_soon_ids():
             if has_next_page:
                 time.sleep(1) # 延时 1 秒防止被封 IP
                 
+        except requests.exceptions.HTTPError as e:
+            print(f"HTTP 错误: {e}")
+            if response.status_code == 422:
+                print(f"响应详情: {response.text}")
+            elif response.status_code in [403, 401]:
+                print(">>> 严重错误: DMM API 拒绝了请求 (403/401)。GitHub 的美国 IP 可能已被封禁。")
+            break
         except Exception as e:
             print(f"抓取发生异常: {e}")
             break
