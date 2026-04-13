@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 核心：破解 DMM 图片防盗链 -->
     <meta name="referrer" content="no-referrer" />
-    <title>DMM Premium | 即将下架独占影片</title>
+    <title>Fanza TV Plus | 即将下架独占影片</title>
     <style>
         /* 尊享版暗黑主题变量 */
         :root {
@@ -68,7 +69,7 @@
         /* 自适应网格布局 */
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
             gap: 30px;
         }
 
@@ -81,8 +82,6 @@
             border: 1px solid rgba(255,255,255,0.04);
             display: flex;
             flex-direction: column;
-            text-decoration: none;
-            color: inherit;
         }
 
         .card:hover {
@@ -92,22 +91,19 @@
             box-shadow: 0 15px 30px rgba(0,0,0,0.5), 0 0 20px var(--accent-glow);
         }
 
-        /* 封面图区域 (强制 16:9 比例) */
+        /* 封面图区域 (恢复原始比例) */
         .card-thumb {
             position: relative;
             width: 100%;
-            padding-top: 56.25%; /* 16:9 Aspect Ratio */
             background-color: #111;
             overflow: hidden;
+            cursor: zoom-in;
         }
 
         .card-thumb img {
-            position: absolute;
-            top: 0;
-            left: 0;
             width: 100%;
-            height: 100%;
-            object-fit: cover;
+            height: auto;
+            display: block;
             transition: transform 0.5s ease;
         }
 
@@ -162,9 +158,9 @@
             color: var(--text-main);
             font-family: "SFMono-Regular", Consolas, monospace;
             font-size: 0.85em;
-            text-transform: uppercase;
             letter-spacing: 1px;
             border: 1px solid rgba(255,255,255,0.1);
+            /* 保持ID原始大小写 */
         }
 
         /* 标题与描述 */
@@ -177,6 +173,13 @@
             -webkit-line-clamp: 2; /* 限制2行 */
             -webkit-box-orient: vertical;
             overflow: hidden;
+            color: var(--text-main);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .title:hover {
+            color: var(--accent-primary);
         }
 
         .description {
@@ -199,6 +202,30 @@
             color: var(--text-muted);
         }
 
+        /* 图片放大模态框 */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(5px);
+            align-items: center;
+            justify-content: center;
+            cursor: zoom-out;
+        }
+
+        .modal img {
+            max-width: 95vw;
+            max-height: 95vh;
+            border-radius: 8px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.5);
+            object-fit: contain;
+        }
+
         /* 响应式调整 */
         @media (max-width: 768px) {
             .grid { grid-template-columns: 1fr; }
@@ -209,21 +236,35 @@
 <body>
 
     <nav class="navbar">
-        <h1>DMM Premium 独占大赏</h1>
-        <p id="stats">正在从 Github 获取最新下架情报...</p>
+        <h1>Fanza TV Plus 独家即将下架</h1>
+        <p id="stats">正在获取最新下架情报...</p>
     </nav>
 
     <div class="container">
         <div id="grid" class="grid">
-            </div>
+            <!-- 影片卡片将在这里动态生成 -->
+        </div>
         <div id="error-msg" class="status-msg" style="display: none;"></div>
     </div>
 
+    <!-- 全屏图片模态框 -->
+    <div id="image-modal" class="modal" onclick="this.style.display='none'">
+        <img id="modal-img" src="" alt="大图预览">
+    </div>
+
     <script>
-        // 获取并渲染 JSON 数据
+        // 打开全屏图片模态框
+        function openModal(imgSrc) {
+            const modal = document.getElementById('image-modal');
+            const modalImg = document.getElementById('modal-img');
+            modalImg.src = imgSrc;
+            modal.style.display = 'flex';
+        }
+
+        // 使用相对路径，这样在 GitHub Pages 上能完美匹配同目录下的 json 文件
         fetch('dmm_ending_soon_exclusive.json')
             .then(response => {
-                if (!response.ok) throw new Error('数据文件 dmm_ending_soon_exclusive.json 不存在，请等待 Actions 运行完毕。');
+                if (!response.ok) throw new Error('数据文件 dmm_ending_soon_exclusive.json 读取失败');
                 return response.json();
             })
             .then(data => {
@@ -240,8 +281,8 @@
 
                     // 构建 HTML 卡片
                     const cardHTML = `
-                        <a href="https://tv.dmm.co.jp/vod/detail/?title_id=${video.id}" target="_blank" class="card">
-                            <div class="card-thumb">
+                        <div class="card">
+                            <div class="card-thumb" onclick="openModal('${imgUrl}')" title="点击全屏查看封面">
                                 <img src="${imgUrl}" alt="${video.id}" loading="lazy" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'800\\' height=\\'450\\' viewBox=\\'0 0 800 450\\'%3E%3Crect width=\\'800\\' height=\\'450\\' fill=\\'%23222\\'/%3E%3Ctext x=\\'50%25\\' y=\\'50%25\\' fill=\\'%23666\\' font-family=\\'Arial\\' font-size=\\'24\\' text-anchor=\\'middle\\' dy=\\'8\\'%3E封面加载失败%3C/text%3E%3C/svg%3E'">
                                 <div class="badge-group">
                                     <span class="badge badge-score">⭐ ${score}</span>
@@ -252,10 +293,10 @@
                                 <div class="meta-row">
                                     <span class="video-id">ID: ${video.id}</span>
                                 </div>
-                                <h3 class="title" title="${title}">${title}</h3>
+                                <a href="https://tv.dmm.co.jp/vod/detail/?title_id=${video.id}" target="_blank" class="title" title="点击前往 DMM TV 观看: ${title}">${title}</a>
                                 <p class="description" title="${desc}">${desc}</p>
                             </div>
-                        </a>
+                        </div>
                     `;
                     grid.insertAdjacentHTML('beforeend', cardHTML);
                 });
