@@ -7,7 +7,6 @@ from datetime import datetime
 def fetch_dmm_ending_soon_ids():
     url = "https://api.tv.dmm.co.jp/graphql"
     
-    # 极简 Headers：绕过年龄限制，伪装浏览器
     headers = {
         "accept": "*/*",
         "accept-language": "zh-CN,zh;q=0.9",
@@ -19,7 +18,6 @@ def fetch_dmm_ending_soon_ids():
         "cookie": "age_check_done=1"
     }
 
-    # 修复 422 错误：恢复 DMM 标准的 GraphQL 查询格式，严格遵守参数定义
     graphql_query = """query FetchFanzaTvPlusSearch($device: Device!, $keyword: String, $castIds: [String!], $genreIds: [String!], $makerIds: [String!], $seriesIds: [String!], $labelIds: [String!], $ppvShop: FanzaPPVShop, $viewingPlan: FanzaTvViewingPlan, $isForeign: Boolean, $isChildNg: Boolean, $sort: FanzaSvodSortKey, $first: Int, $after: String) {
   fanzaTvPlus(device: $device) {
     search(
@@ -67,14 +65,12 @@ def fetch_dmm_ending_soon_ids():
     print(">>> 阶段 1: 开始抓取 DMM TV 即将下架影片详细信息 (直连模式) ...")
 
     while has_next_page:
-        # 获取 ALL 计划的影片
         variables = {
             "sort": "DELIVERY_ENDING_SOON",
             "device": "BROWSER",
             "first": 48,
             "isForeign": False
         }
-        
         if after_cursor:
             variables["after"] = after_cursor
             
@@ -85,7 +81,6 @@ def fetch_dmm_ending_soon_ids():
         }
 
         try:
-            # 发送请求
             response = requests.post(url, headers=headers, json=payload, timeout=20)
             response.raise_for_status() 
             
@@ -93,7 +88,6 @@ def fetch_dmm_ending_soon_ids():
             search_data = data.get("data", {}).get("fanzaTvPlus", {}).get("search", {})
             edges = search_data.get("edges", [])
             
-            # 保存完整的影片字典信息
             for edge in edges:
                 node = edge.get("node", {})
                 if node.get("id"):
@@ -108,15 +102,8 @@ def fetch_dmm_ending_soon_ids():
             
             page_count += 1
             if has_next_page:
-                time.sleep(1) # 延时 1 秒防止被封 IP
+                time.sleep(1)
                 
-        except requests.exceptions.HTTPError as e:
-            print(f"HTTP 错误: {e}")
-            if response.status_code == 422:
-                print(f"响应详情: {response.text}")
-            elif response.status_code in [403, 401]:
-                print(">>> 严重错误: DMM API 拒绝了请求 (403/401)。GitHub 的美国 IP 可能已被封禁。")
-            break
         except Exception as e:
             print(f"抓取发生异常: {e}")
             break
@@ -141,7 +128,6 @@ def fetch_dmm_ending_soon_ids():
     except Exception as e:
         print(f"获取 PREMIUM.txt 失败，将跳过过滤步骤: {e}")
 
-    # 执行过滤
     if premium_ids_set:
         exclusive_videos = [v for v in all_videos if v.get("id") not in premium_ids_set]
     else:
@@ -149,47 +135,56 @@ def fetch_dmm_ending_soon_ids():
         
     print(f"过滤掉了 {len(all_videos) - len(exclusive_videos)} 个重复影片，剩下独有影片: {len(exclusive_videos)} 个。")
 
-    # ------------------ 阶段 3: 写入 JSON / TXT / README ------------------ #
+    # ------------------ 阶段 3: 写入 JSON / TXT / 专属 README ------------------ #
     print("\n>>> 阶段 3: 生成数据文件与更新 README.md ...")
-    update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    # 转换为东九区时间 (日本时间)
+    update_time = datetime.utcnow()
+    update_time_str = update_time.strftime("%Y-%m-%d %H:%M:%S (UTC)")
     
     try:
-        # 1. 保存所有影片 ID 的 txt 文件（未过滤）
         with open("dmm_ending_soon_ids_all.txt", "w", encoding="utf-8") as f_all:
             f_all.write("\n".join([v["id"] for v in all_videos]) + "\n")
             
-        # 2. 保存独占影片 ID 的 txt 文件（已过滤）
         with open("dmm_ending_soon_ids_exclusive.txt", "w", encoding="utf-8") as f_exc:
             f_exc.write("\n".join([v["id"] for v in exclusive_videos]) + "\n")
             
-        # 3. 保存独占影片的完整信息为 JSON (供网页前端读取)
         with open("dmm_ending_soon_exclusive.json", "w", encoding="utf-8") as f_json:
             json.dump(exclusive_videos, f_json, ensure_ascii=False, indent=2)
             
-        # 4. 自动生成包含图文的 README.md
-        readme_content = f"""# 🚨 DMM TV (FANZA) 独家即将下架影片
+        # ---------- 为仓库首页特别定制的 README ----------
+        readme_content = f"""# 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新时间**: {update_time}
-> **独家下架影片数量**: {len(exclusive_videos)} 部 (已过滤 PREMIUM 内容)
-> 
-> 👉 **[点击这里访问大图卡片展示页](https://{os.getenv('GITHUB_REPOSITORY_OWNER', '你的用户名')}.github.io/{os.getenv('GITHUB_REPOSITORY', '你的仓库名').split('/')[-1] if os.getenv('GITHUB_REPOSITORY') else '你的仓库名'}/)**
+> **最后更新**: `{update_time_str}`
+> **独家影片**: `{len(exclusive_videos)}` 部 (已过滤 PREMIUM 内容)
+> 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
-## 影片列表速览 (前50部)
+---
 
-| 封面 | 详细信息 |
-| :--- | :--- |
-"""
-        for v in exclusive_videos[:50]:
-            img_url = v.get("packageImage", "")
-            title = v.get("title", "").replace("|", "\|") # 防止标题里的竖线破坏 Markdown 表格
+"""     
+        # 将所有独占影片渲染到 README 中
+        # 为了防止图片过多导致 Github 卡顿，使用 details 折叠标签分块，或者直接瀑布流
+        for v in exclusive_videos:
+            # 优先使用大图
+            img_url = v.get("packageLargeImage") or v.get("packageImage", "")
+            title = v.get("title", "未知标题").replace("\n", " ")
             vid = v.get("id", "")
-            score = v.get("averageReviewPoint", "无")
+            score = v.get("averageReviewPoint")
+            score_str = f"{score}" if score else "暂无"
             end_date = v.get("endDeliveryAt", "")[:10]
+            desc = v.get("description", "暂无描述...")
+            if len(desc) > 150:
+                desc = desc[:150] + "..." # 描述太长截断一下
             
-            readme_content += f"| <img src='{img_url}' width='200'> | **ID**: `{vid}`<br>**标题**: {title}<br>⭐ **评分**: {score}<br>⏳ **下架日期**: {end_date} |\n"
+            dmm_link = f"https://tv.dmm.co.jp/vod/detail/?title_id={vid}"
             
-        if len(exclusive_videos) > 50:
-            readme_content += f"\n*...等共 {len(exclusive_videos)} 部影片，请点击上方展示页链接查看完整列表。*\n"
+            # 使用 Markdown 的图文混排结构
+            readme_content += f"### 🎬 [{title}]({dmm_link})\n\n"
+            readme_content += f"**ID**: `{vid}` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `{score_str}` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `{end_date}`\n\n"
+            # 点击图片打开原图链接
+            readme_content += f"[<img src='{img_url}' width='800'>]({img_url})\n\n"
+            readme_content += f"> {desc}\n\n"
+            readme_content += "---\n\n"
 
         with open("README.md", "w", encoding="utf-8") as f_readme:
             f_readme.write(readme_content)
