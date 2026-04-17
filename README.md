@@ -1,38 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-16 17:20:20 (UTC)`
-> **独家影片**: `22` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-04-17 16:57:59 (UTC)`
+> **独家影片**: `20` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [最高級五ッ星ホテルの裏オプレズビアン。 フロント痴女に狂おしいほどイカされ続けてレズ沼堕ちした欲求不満ノンケVIPモデル。 百永さりな 樋口みつは](https://tv.dmm.co.jp/vod/detail/?title_id=bban00396)
-
-**ID**: `bban00396` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.38` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-17`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00396/bban00396pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00396/bban00396pl.jpg)
-
-> 都内にある超高級ホテルに知人の紹介でやってきたさりな。ホテルマンもサービスも最高級で、日頃の疲れを癒すには最適の場所だった。そんな時、美人ホテルマンのみつはからルームサービスを受けるのだが、それがあまりにも卑猥なもので…。実は、みつはは宿泊客の中では知る人ぞ知るレズビアンだった。彼女の凄テクが忘れら...
-
----
-
-### 🎬 [人妻を虜にする寸止め淫語レズビアン ～欲求不満な女同士の秘密の淫語調教～](https://tv.dmm.co.jp/vod/detail/?title_id=bban00392)
-
-**ID**: `bban00392` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.14` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-17`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00392/bban00392pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00392/bban00392pl.jpg)
-
-> 欲求不満だった身体は、突然のキスに失禁してしまうほどに感じてしまって…。誤って届いた郵便物を手渡しに行った事がきっかけとなり、初めてお互いの話をする事になった2人。’りの’の巨乳に思わず欲情してしまったバイセクシャルの’みお’は、夫と長期間会えないという’りの’に対して甘い誘惑を持ちかける…。人妻同...
-
----
-
-### 🎬 [ビンカン肉厚Kカップ 爆乳ファーストタッチ](https://tv.dmm.co.jp/vod/detail/?title_id=mmnd00208)
-
-**ID**: `mmnd00208` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.23` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-17`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmnd00208/mmnd00208pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmnd00208/mmnd00208pl.jpg)
-
-> あり得ないほどのド迫力で迫りくる驚きの大ボリューム！日本に0.1パーセントしかいない幻のKカップ。そんなレア爆乳を持つ奇跡の女体、高橋くるみの最新イメージビデオを緊急リリース。揺れて飛び跳る柔らかく形のいい球体は、何度見ても大興奮必至！おっぱい好き垂涎のタイトルをその目に焼き付けろ！！
 
 ---
 
@@ -223,6 +193,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avzg00047/avzg00047pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avzg00047/avzg00047pl.jpg)
 
 > デカチン男優によるナンパを決行！世の中にはデカチンが大好きな女の子がいるんです。目の前にデカチンを出してあげると驚きながらも目線はチラチラ。一度ペロッとすればもう虜。メス顔になっていやらしくしゃぶっちゃいます。もちろんオマ●コにもズッポシ。今まで到達してない奥の奥を突かれると皆絶頂！驚くほど感じて腰...
+
+---
+
+### 🎬 [脅迫CAレズビアン 助けが来ないフライト先で襲われる潮吹き絶頂ドマゾ調教 有坂深雪 あおいれな](https://tv.dmm.co.jp/vod/detail/?title_id=bban00362)
+
+**ID**: `bban00362` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.53` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-17`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00362/bban00362pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00362/bban00362pl.jpg)
+
+> 【有坂深雪×あおいれな】素直で気の利く人気者CA深雪。それが気に入らないチーフCAのれなは、深雪の味方が誰もいないフライト先で、お仕置きすることを内密に決める。「男に媚びている」と因縁をつけ無理矢理その華奢な体に手をかけるれな。顔舐め、首絞め、スパンキング、顔面騎乗、玩具責め、強●潮吹き…。終わらな...
 
 ---
 
