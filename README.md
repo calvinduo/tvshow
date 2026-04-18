@@ -1,6 +1,6 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-17 16:57:59 (UTC)`
+> **最后更新**: `2026-04-18 16:47:22 (UTC)`
 > **独家影片**: `20` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
@@ -68,7 +68,7 @@
 
 ### 🎬 [レズビアンに囚われた女潜入捜査官 吉岡ひより 波多野結衣 美咲結衣](https://tv.dmm.co.jp/vod/detail/?title_id=bban00371)
 
-**ID**: `bban00371` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.08` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-29`
+**ID**: `bban00371` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.15` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-29`
 
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00371/bban00371pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00371/bban00371pl.jpg)
 
