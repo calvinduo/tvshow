@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-18 16:47:22 (UTC)`
-> **独家影片**: `20` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-04-19 16:47:11 (UTC)`
+> **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [一つ屋根の下で過ごしたあの日。 Wレズ解禁。 ずっと忘れない思い出になった1日](https://tv.dmm.co.jp/vod/detail/?title_id=bban00397)
-
-**ID**: `bban00397` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.2` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-19`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00397/bban00397pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00397/bban00397pl.jpg)
-
-> 【南条いちか＆天晴乃愛 Wレズ解禁！！】Gカップ巨乳な美少女2人がドキドキ未知数なレズ解禁。レズの事を何も知らない初々しい2人が一つ屋根の下、一緒に過ごしてレズ体験していく！初めは緊張していた2人も身体を重ね合うごとにその距離を縮めていって…？あおいれな監督が初レズの2人に与える試練…そして2人が思...
 
 ---
 
