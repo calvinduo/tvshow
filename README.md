@@ -1,28 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-19 16:47:11 (UTC)`
-> **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-04-20 17:08:09 (UTC)`
+> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [お酒を飲んで2人で本音で絡み合い1日中セックスしまくる！ ガチ友ホロ酔いレズドキュメント。永瀬ゆい、引退宣言。 松本いちか](https://tv.dmm.co.jp/vod/detail/?title_id=bban00365)
-
-**ID**: `bban00365` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.75` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-20`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00365/bban00365pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00365/bban00365pl.jpg)
-
-> 【永瀬ゆい引退宣言】仲良しな永瀬ゆいの引退発表を受けて、松本いちかが一肌脱いだ！多数の共演作品を一緒に作り上げてきた’ロリ系’界のトップ2人が思い出を語り合う最後の本気レズ！余計な演出は一切なし。お酒を飲みながらホロ酔いで朝まで絡み合う、2人の魅力と本音と本能が詰まった最高のレズドキュメント。照れと...
-
----
-
-### 🎬 [女性限定！素人ナンパ！ 初川みなみと気持ちいいことしませんか？全力超快感レズビアンSEX！](https://tv.dmm.co.jp/vod/detail/?title_id=bban00359)
-
-**ID**: `bban00359` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.11` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-20`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00359/bban00359pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00359/bban00359pl.jpg)
-
-> 【初川みなみ×真咲南朋】皆さんお待たせしました！MOODYZ専属’はっつ’こと初川みなみがついに、ビビアンの大人気シリーズに登場です！！街中で見つけた可愛い素人さんを口説いてナンパチャレンジ！素人女性の気持ちいいトコロを全力エッチで責めてイカせまくる…はずが！？とんでもない素人さんを引き当て、汗だく...
 
 ---
 
