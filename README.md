@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-22 17:06:30 (UTC)`
-> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-04-23 17:24:34 (UTC)`
+> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -173,6 +173,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00362/bban00362pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00362/bban00362pl.jpg)
 
 > 【有坂深雪×あおいれな】素直で気の利く人気者CA深雪。それが気に入らないチーフCAのれなは、深雪の味方が誰もいないフライト先で、お仕置きすることを内密に決める。「男に媚びている」と因縁をつけ無理矢理その華奢な体に手をかけるれな。顔舐め、首絞め、スパンキング、顔面騎乗、玩具責め、強●潮吹き…。終わらな...
+
+---
+
+### 🎬 [かわいい女の子2人 レズキス涎まみれのWレズ解禁 おまけにWパイパン かわいすぎてキュン死確定スペシャル。 希咲那奈 皆瀬あかり](https://tv.dmm.co.jp/vod/detail/?title_id=bban00402)
+
+**ID**: `bban00402` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.27` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-23`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00402/bban00402pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00402/bban00402pl.jpg)
+
+> かわいい洋服を着たかわいいかわいい美少女2人が一緒に初めてのレズエッチ！たっぷりのレズキスと唾液交換、涎まみれになる柔肌と敏感おっぱい、ピンクのマンコ。全部が尊い！悶絶注意！首をかしげるチワワよりもはるかにかわいい生物を見つけました。まさにかわいすぎてキュン死確定スペシャル！
 
 ---
 
