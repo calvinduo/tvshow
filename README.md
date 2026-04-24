@@ -1,28 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-23 17:24:34 (UTC)`
-> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-04-24 17:01:52 (UTC)`
+> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [初めて踏み込むとっておきの関係。 感情を激しく揺さぶり濃密に交わるガチ親友レズドキュメント 川北メイサ 沙月恵奈](https://tv.dmm.co.jp/vod/detail/?title_id=bban00394)
-
-**ID**: `bban00394` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.66` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-24`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00394/bban00394pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00394/bban00394pl.jpg)
-
-> 【川北メイサレズ解禁。】誰よりも近くにいて、誰よりも可愛くて、誰にも渡したくないとっておきの存在。そんなプライベートでも仲良しのえなちと、笑って、はしゃいで、キスして無邪気にじゃれ合って、2人で踏み出した親友以上の関係。ずっと一緒に過ごしてきた親友の本音の告白、抑えられない感情、唇を重ねるたびに高ま...
-
----
-
-### 🎬 [浜崎真緒と逢見リカが真夏のビーチで地元女子を口説いてレズナンパ！ 私たちと一緒に気持ちよくなろうよ！](https://tv.dmm.co.jp/vod/detail/?title_id=bban00391)
-
-**ID**: `bban00391` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.6` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-24`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00391/bban00391pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00391/bban00391pl.jpg)
-
-> 夏といえば海！海といえばビーチ！ビーチといえばナンパ！開放的な真夏のビーチにエロエロモード全開のレズ大好きAV女優2人が舞い降りた！あの手この手で地元の女の子を口説いて即お持ち帰り！プロのレズテクニックで地元女子をイカセまくるぞ！そして最後はまさかの4P？？？
 
 ---
 
@@ -98,7 +78,7 @@
 
 ### 🎬 [数珠繋ぎ宿なし少女盗撮 泊めてくれて潮も吹かせてくれると人気のシオおじAさんの日常 初潮吹きP活少女](https://tv.dmm.co.jp/vod/detail/?title_id=1nhdtb90101)
 
-**ID**: `1nhdtb90101` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-30`
+**ID**: `1nhdtb90101` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-30`
 
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1nhdtb90101/1nhdtb90101pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1nhdtb90101/1nhdtb90101pl.jpg)
 
