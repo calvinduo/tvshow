@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-25 16:50:27 (UTC)`
+> **最后更新**: `2026-04-26 16:50:52 (UTC)`
 > **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [もりひな女の子と初めてエッチしちゃいました 森日向子レズ解禁 久留木玲](https://tv.dmm.co.jp/vod/detail/?title_id=bban00368)
-
-**ID**: `bban00368` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-26`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00368/bban00368pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00368/bban00368pl.jpg)
-
-> もりひな初めてのレズエッチで涙。嬉しさと愛おしさと緊張と安堵が入り混じった可愛くってキレイな泣き顔とイキ顔…。もりひなこと森日向子の素の反応が楽しめるドキュメントパートと世界観に入り込み、一心不乱に女の子同士が求めあうドラマパートを収録した1粒で2度美味しいレズ解禁作品できました！
 
 ---
 
@@ -163,6 +153,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00402/bban00402pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00402/bban00402pl.jpg)
 
 > かわいい洋服を着たかわいいかわいい美少女2人が一緒に初めてのレズエッチ！たっぷりのレズキスと唾液交換、涎まみれになる柔肌と敏感おっぱい、ピンクのマンコ。全部が尊い！悶絶注意！首をかしげるチワワよりもはるかにかわいい生物を見つけました。まさにかわいすぎてキュン死確定スペシャル！
+
+---
+
+### 🎬 [愛欲溢れる濃密レズビアン同棲生活 ～巨乳に埋もれキスに溺れる求愛オーガズム性交～ 小花のん 斎藤あみり](https://tv.dmm.co.jp/vod/detail/?title_id=bban00393)
+
+**ID**: `bban00393` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.25` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-26`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00393/bban00393pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00393/bban00393pl.jpg)
+
+> 【斎藤あみりレズ解禁×小花のん初本格レズ】絶対的美少女2人が本能剥き出しでSEXに没頭するレズビアンカップルの生々しい日常。彼女の美しい白桃おっぱいに24時間ずっと発情しっぱなし、神乳が変形するほどに揉んで吸って舐めて、W巨乳を超密着させて愛しい人のぬくもりに包まれ夢心地な時間を堪能する。無我夢中で...
 
 ---
 
