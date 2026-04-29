@@ -1,28 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-28 17:49:49 (UTC)`
-> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-04-29 17:42:45 (UTC)`
+> **独家影片**: `15` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [レズビアンに囚われた女潜入捜査官 吉岡ひより 波多野結衣 美咲結衣](https://tv.dmm.co.jp/vod/detail/?title_id=bban00371)
-
-**ID**: `bban00371` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.15` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-29`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00371/bban00371pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00371/bban00371pl.jpg)
-
-> 【吉岡ひより レズ解禁！】都内に展開される女性向けマッサージ店で噂される違法風俗行為…その疑惑の追及の為、新人捜査官のひよりは先輩とタッグを組んで潜入捜査に乗り出す事に。客を装い店に潜入した2人は、それぞれ別の部屋に通されて…。何度イカされても正義の心を貫き、決して折れない捜査官にレズビアンの女はい...
-
----
-
-### 🎬 [椿りか＆ちゃんよた エロ過ぎボディの2人が密着Wレズ解禁](https://tv.dmm.co.jp/vod/detail/?title_id=bban00376)
-
-**ID**: `bban00376` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.05` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-04-29`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00376/bban00376pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00376/bban00376pl.jpg)
-
-> W肉感ボディWぷっくりエロ唇！エロ偏差値最高レベルの二人が奇跡のWレズ解禁！二人の肉感を余すことなくお届けするこだわりの接写アングル！初めてのレズならではのドキドキ感がありつつもそこはエロ偏差値が75を超えているエロエロ女子の二人。めっちゃエロい百合SEXを見せてくれます！見ごたえ十分！キスもいっぱ...
 
 ---
 
@@ -163,6 +143,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00393/bban00393pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00393/bban00393pl.jpg)
 
 > 【斎藤あみりレズ解禁×小花のん初本格レズ】絶対的美少女2人が本能剥き出しでSEXに没頭するレズビアンカップルの生々しい日常。彼女の美しい白桃おっぱいに24時間ずっと発情しっぱなし、神乳が変形するほどに揉んで吸って舐めて、W巨乳を超密着させて愛しい人のぬくもりに包まれ夢心地な時間を堪能する。無我夢中で...
+
+---
+
+### 🎬 [愛と憧れの肉欲レズビアン 美波ももレズ解禁 女流エッセイスト浜崎真緒の証明](https://tv.dmm.co.jp/vod/detail/?title_id=bban00405)
+
+**ID**: `bban00405` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-29`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00405/bban00405pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00405/bban00405pl.jpg)
+
+> 【美波もも レズ解禁！！】人気のレズエッセイスト真緒に憧れて出版社に就職した新人編集者ももは、ついに念願の対面を果たす事に。尊敬する先生を前に、自身もレズであることを告白するもも。そんな彼女に興味を示した真緒は、彼女にレズの快感を教えようと迫り…。女同士の肉欲のレズ性交、愛、立場逆転。性欲まみれの2...
 
 ---
 
