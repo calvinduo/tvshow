@@ -1,48 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-04-30 17:25:04 (UTC)`
-> **独家影片**: `8` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-05-01 17:00:43 (UTC)`
+> **独家影片**: `11` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [恋愛禁止の裏側。 濡れ舌剥き出しでねっちょり交わる欲求不満アイドルレズビアン 横宮七海 天馬ゆい](https://tv.dmm.co.jp/vod/detail/?title_id=bban00387)
-
-**ID**: `bban00387` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.77` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-01`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00387/bban00387pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00387/bban00387pl.jpg)
-
-> 「恋愛禁止だけど、女の子同士なら大丈夫だよね？」恋愛禁止に縛られた欲求不満なアイドルが、メンバー同士で涎を垂れ流して貪り合い溜まった性欲を爆発させる！ライブ終わりに、握手会の休憩中で、そして全国ツアーのホテルでも―。肉厚ベロを剥き出しにしてぐちょぐちょに絡み合い、2人だけの世界で何度も何度も絶頂を繰...
-
----
-
-### 🎬 [あなたごめんね 欲求不満でスケベしたくてたまらない上品奥様＆3Pに興味津々の変態オチ●ポ大好きショートカット奥様](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00169)
-
-**ID**: `avkh00169` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-01`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00169/avkh00169pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00169/avkh00169pl.jpg)
-
-> 女優の○雪激似の欲求不満妻と3Pに興味があるショートカット奥様が乱れに乱れる。夫に満足できない2人がデカチンを美味しそうにしゃぶり頬張っちゃいます！！カラダに触れるだけで情けないほど喘いじゃう奥様にこん棒のような肉棒をハメハメすると絶叫しながらイキまくり！たっぷりザーメンをお口に塗りたくられ恍惚の表...
-
----
-
-### 🎬 [ビーチハンターSP1](https://tv.dmm.co.jp/vod/detail/?title_id=mdud00458)
-
-**ID**: `mdud00458` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-01`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00458/mdud00458pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00458/mdud00458pl.jpg)
-
-> ヤリモクビキニ娘が集まる伝説のビーチでビキニをめくって即ハメ！！する為にやってきた！！開放的になったビキニ素人むすめの水着をずらして日焼けあとチェック！！水着は下着！1枚めくるとそこはオアシス！！厳選6名セレクトの完全保存版総集編！！
-
----
-
-### 🎬 [デカ●ンに魅了される娘たち。ドスケベ顔でチ●ポを貪るノリのいいパイパン娘＆絶叫しながらイキまくるフェラチオ大好きバーテンダー](https://tv.dmm.co.jp/vod/detail/?title_id=avzg00047)
-
-**ID**: `avzg00047` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-01`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avzg00047/avzg00047pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avzg00047/avzg00047pl.jpg)
-
-> デカチン男優によるナンパを決行！世の中にはデカチンが大好きな女の子がいるんです。目の前にデカチンを出してあげると驚きながらも目線はチラチラ。一度ペロッとすればもう虜。メス顔になっていやらしくしゃぶっちゃいます。もちろんオマ●コにもズッポシ。今まで到達してない奥の奥を突かれると皆絶頂！驚くほど感じて腰...
 
 ---
 
@@ -83,6 +43,76 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00405/bban00405pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00405/bban00405pl.jpg)
 
 > 【美波もも レズ解禁！！】人気のレズエッセイスト真緒に憧れて出版社に就職した新人編集者ももは、ついに念願の対面を果たす事に。尊敬する先生を前に、自身もレズであることを告白するもも。そんな彼女に興味を示した真緒は、彼女にレズの快感を教えようと迫り…。女同士の肉欲のレズ性交、愛、立場逆転。性欲まみれの2...
+
+---
+
+### 🎬 [秘書グラマラス 復活 るみ](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmgl00025)
+
+**ID**: `h_172hmgl00025` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.56` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00025/h_172hmgl00025pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00025/h_172hmgl00025pl.jpg)
+
+> 魔性のドスケベ女「るみ」生肉奴●秘書でずっぽり復活！後ろ手に拘束しギンギンのイチモツをしゃぶらせる。四つん這いからゆっくり生調教。アツい蜜が溢れ出てくる。コイツはただの変態オンナだから。
+
+---
+
+### 🎬 [初恋ガイダンス 大下さくら](https://tv.dmm.co.jp/vod/detail/?title_id=h_706cand01142)
+
+**ID**: `h_706cand01142` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_706cand01142/h_706cand01142pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_706cand01142/h_706cand01142pl.jpg)
+
+> 
+
+---
+
+### 🎬 [初恋フェティシュ 大下さくら](https://tv.dmm.co.jp/vod/detail/?title_id=h_706cand01144)
+
+**ID**: `h_706cand01144` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_706cand01144/h_706cand01144pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_706cand01144/h_706cand01144pl.jpg)
+
+> 静寂である、校庭では遠くから吹奏楽部の練習音が聞こえたが…今は、静かである…佇む少女の息遣いと、動くたびに聞こえるプリーツスカートの衣擦れの音のみである。校庭の大木に背をもたれて文庫本を読んでいるサクラ。細い白い指でゆっくりとページをめくる…あどけない横顔…物語に没頭している眼差し…少し開いた唇から...
+
+---
+
+### 🎬 [とあるヲタクの活動記録15](https://tv.dmm.co.jp/vod/detail/?title_id=pcde00015)
+
+**ID**: `pcde00015` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00015/pcde00015pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00015/pcde00015pl.jpg)
+
+> あるヲタクが話術と金に物を言わせてコスプレ娘たちをハメ撮りまくる！今回獲物になった3人の美少女のコスプレH姿をご覧ください！
+
+---
+
+### 🎬 [純系ラビリンス/橋本伶奈](https://tv.dmm.co.jp/vod/detail/?title_id=h_706cand01182)
+
+**ID**: `h_706cand01182` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_706cand01182/h_706cand01182pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_706cand01182/h_706cand01182pl.jpg)
+
+> はち切れんばかりの笑顔とピチピチホワイトボディーでのオドロキ露出とダイタンポーズで新人デビューをした期待の18歳新人アイドル『橋本伶奈』ちゃんの連発最新作です。輝く陽光のもとで屋外シャワーを浴びたり・・浴衣を脱いでのシルエットヌードが美しいです。女子寮の先輩に足にバストにお尻にアイスを塗られて舐めら...
+
+---
+
+### 🎬 [DEEP ZONE！ VOL.3/西野なな](https://tv.dmm.co.jp/vod/detail/?title_id=1sho00057)
+
+**ID**: `1sho00057` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1sho00057/1sho00057pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1sho00057/1sho00057pl.jpg)
+
+> アイドルのキワドイショットを捉えた「DEEP ZONE！」シリーズ第3弾。初めてのイメージ撮影に恥ずかしさを隠し切れないウブッ娘・西野ななちゃんのたわわに実った90cm、Eカップバストをご堪能あれ。
+
+---
+
+### 🎬 [SSE48](https://tv.dmm.co.jp/vod/detail/?title_id=1sho00055)
+
+**ID**: `1sho00055` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1sho00055/1sho00055pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1sho00055/1sho00055pl.jpg)
+
+> 48人の美少女たちがスゴイことになってるいるぞ！！アイドル好きもJK好きもおっぱい大好きな人も集まれ！ソフト～ハードまでスゴイことだらけでヘビーローテーション間違いなし…あなたの彼女になれますか？
 
 ---
 
