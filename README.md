@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-05-01 17:00:43 (UTC)`
-> **独家影片**: `11` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-05-02 16:54:18 (UTC)`
+> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -113,6 +113,56 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1sho00055/1sho00055pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1sho00055/1sho00055pl.jpg)
 
 > 48人の美少女たちがスゴイことになってるいるぞ！！アイドル好きもJK好きもおっぱい大好きな人も集まれ！ソフト～ハードまでスゴイことだらけでヘビーローテーション間違いなし…あなたの彼女になれますか？
+
+---
+
+### 🎬 [あなたごめんね 旦那の仕事中にアナルまで舐めちゃうFカップ若奥様＆上品な顔してデカチン大好きドスケベ清楚妻](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00171)
+
+**ID**: `avkh00171` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-01`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00171/avkh00171pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00171/avkh00171pl.jpg)
+
+> 結婚からオナニーで欲求不満を解消しているなみさんと、結婚しながらもセフレ相手に頻繁にセックスを楽しんでいるという舞さん。両極端な奥様達ですがチンポ好きなのは同じ。デカチンを見せると嬉しそうにしゃぶり、オマンコはトロトロ。旦那以外のチンポをハメられると狂ったようにイキまくります。歩いていると上品にしか...
+
+---
+
+### 🎬 [女性向けマッサージに没頭する部活少女。性感レズビアン ～筋肉の凝り固まった肢体をじっくりと堪能するレズエステティシャン～](https://tv.dmm.co.jp/vod/detail/?title_id=bban00403)
+
+**ID**: `bban00403` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.93` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-01`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00403/bban00403pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00403/bban00403pl.jpg)
+
+> 【穂花あいり レズ解禁！！】部活での筋肉痛に悩む少女あいりは。近所で学生限定で初回無料キャンペーン中の女性向けマッサージ店を見つける。無料ならと試しに予約してみるあいりだったが…？大人な雰囲気の中、際どい部分を刺激され思春期の多感な身体はどうしようもない程の快感を憶えてしまい…。次第に我慢できなくな...
+
+---
+
+### 🎬 [あなたごめんね 2人の若妻が初めての浮気セックスでイキ狂い！顔にお口に濃厚ザーメンぶっかけ！！](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00172)
+
+**ID**: `avkh00172` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.33` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-01`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00172/avkh00172pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00172/avkh00172pl.jpg)
+
+> 現役看護師と元地下アイドルのお二人。どちらも見た目はキレイでスケベなことには興味なさそう。でも実際はドスケベのド変態。どちらもマン毛を剃り上げパイパンマンコ。汁でグチャグチャにしながらデカチンを美味しそうにしゃぶり、ザーメンをお口にドビュッ！ もちろんオマンコにもハメられて大量のザーメンを顔にぶっか...
+
+---
+
+### 🎬 [ビーチハンターSP2](https://tv.dmm.co.jp/vod/detail/?title_id=mdud00459)
+
+**ID**: `mdud00459` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-01`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00459/mdud00459pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00459/mdud00459pl.jpg)
+
+> ヤリモクビキニ娘が集まる伝説のビーチでビキニをめくって即ハメ！！する為にやってきた！！開放的になったビキニ素人むすめの水着をずらして日焼けあとチェック！！水着は下着！1枚めくるとそこはオアシス！！厳選6名セレクトの完全保存版総集編第2弾！！
+
+---
+
+### 🎬 [生挿入でマ○コインして中出しフィニッシュ決めちゃいました！！](https://tv.dmm.co.jp/vod/detail/?title_id=mdud00460)
+
+**ID**: `mdud00460` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-01`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00460/mdud00460pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00460/mdud00460pl.jpg)
+
+> 大ヒット『素人生ドル』シリーズの石橋渉監督がさらに過激になって帰ってきた！今回は大量の500円玉を用意して撮影に協力してもらうと次々とコインを渡していき、最終的にコインなしで生ハメを受け入れ終にはガチ中出しまで受け入れちゃいます！素人娘の性がここにあり！
 
 ---
 
