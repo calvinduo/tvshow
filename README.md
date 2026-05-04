@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-05-03 16:56:24 (UTC)`
-> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-05-04 17:44:17 (UTC)`
+> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -163,6 +163,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00460/mdud00460pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00460/mdud00460pl.jpg)
 
 > 大ヒット『素人生ドル』シリーズの石橋渉監督がさらに過激になって帰ってきた！今回は大量の500円玉を用意して撮影に協力してもらうと次々とコインを渡していき、最終的にコインなしで生ハメを受け入れ終にはガチ中出しまで受け入れちゃいます！素人娘の性がここにあり！
+
+---
+
+### 🎬 [お願い！ アナル舐めさせて！ 肛門クンニ懇願レズビアン 北野未奈 百瀬あすか](https://tv.dmm.co.jp/vod/detail/?title_id=bban00361)
+
+**ID**: `bban00361` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.67` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-03`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00361/bban00361pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00361/bban00361pl.jpg)
+
+> お願い！未奈ちゃんのアナル舐めさせて！！！！百瀬あすか衝撃の告白！戸惑う北野未奈に土下座懇願！あまりにもキレイなアナルを見てどうしてもそのアナルを思う存分舐めまわしたいって思っちゃって（照）。美少女が美少女のアナルを舐めまわす！衝撃映像が撮れちゃいました！アナル舐めまくりの濃厚レズビアン！
 
 ---
 
