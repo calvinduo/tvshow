@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-05-14 17:55:10 (UTC)`
-> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-05-15 17:42:49 (UTC)`
+> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -173,6 +173,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00361/bban00361pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00361/bban00361pl.jpg)
 
 > お願い！未奈ちゃんのアナル舐めさせて！！！！百瀬あすか衝撃の告白！戸惑う北野未奈に土下座懇願！あまりにもキレイなアナルを見てどうしてもそのアナルを思う存分舐めまわしたいって思っちゃって（照）。美少女が美少女のアナルを舐めまわす！衝撃映像が撮れちゃいました！アナル舐めまくりの濃厚レズビアン！
+
+---
+
+### 🎬 [最高の愛人と、昼顔レズビアン性交。 セレブ奥様 ともみ（31歳）とこう（31歳）編](https://tv.dmm.co.jp/vod/detail/?title_id=bban00408)
+
+**ID**: `bban00408` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.42` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-14`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00408/bban00408pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00408/bban00408pl.jpg)
+
+> 【岡西智美＆白花こう Wレズ解禁作品。】人妻×人妻が肉欲にまみれ溶け合う愛人関係。「家庭に不満はありません。夫の事も愛しています。妻として母としてこれからの人生を捧げていきたい。でも…女として刺激が欲しい。そう思う時があるんです。そんな時、私達は出会いました。女性同士なら、不倫ではないですよね？」そ...
 
 ---
 
