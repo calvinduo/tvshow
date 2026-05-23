@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-05-22 17:55:48 (UTC)`
+> **最后更新**: `2026-05-23 17:03:43 (UTC)`
 > **独家影片**: `21` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [かわいい女の子2人 レズキス涎まみれのWレズ解禁 おまけにWパイパン かわいすぎてキュン死確定スペシャル。 希咲那奈 皆瀬あかり](https://tv.dmm.co.jp/vod/detail/?title_id=bban00402)
-
-**ID**: `bban00402` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.27` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-23`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00402/bban00402pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00402/bban00402pl.jpg)
-
-> かわいい洋服を着たかわいいかわいい美少女2人が一緒に初めてのレズエッチ！たっぷりのレズキスと唾液交換、涎まみれになる柔肌と敏感おっぱい、ピンクのマンコ。全部が尊い！悶絶注意！首をかしげるチワワよりもはるかにかわいい生物を見つけました。まさにかわいすぎてキュン死確定スペシャル！
 
 ---
 
@@ -213,6 +203,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00399/bban00399pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00399/bban00399pl.jpg)
 
 > デビュー前まで経験人数1人だった初心な146mの女の子。でも、実は女の子ともエッチな経験が…！？衝撃のバイセク宣言。可愛いお姉さん達に囲まれて赤面しながら’超クリトリス勃起’でガチ興奮！寧ろ女の子とのエッチの方が好きなんじゃない！？と思っちゃうほど気持ちよさそうにレズセックスに可愛く楽しくクリもしこ...
+
+---
+
+### 🎬 [初めてのキスは甘い恋の味がした。 同級生レズビアン 双葉くるみ 皆月ひかる](https://tv.dmm.co.jp/vod/detail/?title_id=bban00409)
+
+**ID**: `bban00409` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.57` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-22`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00409/bban00409pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00409/bban00409pl.jpg)
+
+> 【双葉くるみレズ解禁！】昔から大の仲良しだった2人。くるみはひかるに対して友達以上の感情を抱いていたが、別の学校に進学してからもずっと打ち明けられずにいた。別々の生活が始まった今でも、ひかるの事を忘れる事ができないくるみは勉強と称してひかるの家に行き…遊び半分で初めてのキスを経験する。友達同士のキス...
 
 ---
 
