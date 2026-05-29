@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-05-28 18:39:00 (UTC)`
-> **独家影片**: `21` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-05-29 18:37:15 (UTC)`
+> **独家影片**: `22` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [愛と憧れの肉欲レズビアン 美波ももレズ解禁 女流エッセイスト浜崎真緒の証明](https://tv.dmm.co.jp/vod/detail/?title_id=bban00405)
-
-**ID**: `bban00405` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-05-29`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00405/bban00405pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00405/bban00405pl.jpg)
-
-> 【美波もも レズ解禁！！】人気のレズエッセイスト真緒に憧れて出版社に就職した新人編集者ももは、ついに念願の対面を果たす事に。尊敬する先生を前に、自身もレズであることを告白するもも。そんな彼女に興味を示した真緒は、彼女にレズの快感を教えようと迫り…。女同士の肉欲のレズ性交、愛、立場逆転。性欲まみれの2...
 
 ---
 
@@ -213,6 +203,26 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00400/bban00400pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00400/bban00400pl.jpg)
 
 > 【私とあの子は友達同士。そんなの分かっているけど、彼氏と仲良さそうにしているあの子を隣で見ていると、どうしても我慢できなくて…】女友達のまいに恋愛感情を抱く美月は、レズビアンだと打ち明けられずにいた。しかし溢れる思いはついに我慢の限界を迎え、酔った勢いで強引に身体の関係を結び…「いっぱいイッちゃたね...
+
+---
+
+### 🎬 [1カ月禁欲したどエロいベテラン女優二人を密室に閉じ込める。 川上ゆう 紗々原ゆり](https://tv.dmm.co.jp/vod/detail/?title_id=bban00410)
+
+**ID**: `bban00410` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.28` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-28`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00410/bban00410pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00410/bban00410pl.jpg)
+
+> いろいろあって1カ月間撮影をできず、プライベートでもSEXしていなかったベテラン女優2人。彼女たちを密室に閉じ込めてみたら欲望が爆発したどエロい映像が撮れちゃいました。SEXの気持ちよさを知っている女優にはあまりにも辛い期間だった…。禁欲で絶頂飢餓状態の2人がお互いの身体を貪りあいイキまくる！
+
+---
+
+### 🎬 [2022年未満プレミア総集編 全タイトル全女優コンプリート8時間](https://tv.dmm.co.jp/vod/detail/?title_id=mmxd00033)
+
+**ID**: `mmxd00033` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `2.75` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-28`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmxd00033/mmxd00033pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmxd00033/mmxd00033pl.jpg)
+
+> イメージ撮影として呼び出したグラビアアイドルにいたずら三昧。撮影前は衣装合わせをこなして信じきったグラドルは、マネージャーも付けずに現場へ。撮影の内容が変更になっていることや衣装が違うこと、さらにはスタッフがいなくなっていくなどおかしなことばかり。ついには乳首さらされ、おっぱい揉まれ、マンコまで触ら...
 
 ---
 
