@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-12 18:10:07 (UTC)`
-> **独家影片**: `22` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-06-13 17:26:29 (UTC)`
+> **独家影片**: `23` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -228,6 +228,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00167/bcpv00167pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00167/bcpv00167pl.jpg)
 
 > モデル募集につられてやってきたバイトちゃんたち！そんな彼女たちのリアル職場に勝手に押しかけ、職場服のままHなアルバイトをさせちゃう神企画！数多のバイトちゃんの中から超S級美女＆人気作だけをチョイスしました！総勢8名240分の大ボリューム！！
+
+---
+
+### 🎬 [私のカラダを求める妹は今日も笑顔でキスを貪る…。 没頭する濃厚接吻、肉欲剥き出し姉妹レズビアン絶頂 天然美月 木下ひまり](https://tv.dmm.co.jp/vod/detail/?title_id=bban00356)
+
+**ID**: `bban00356` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.41` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-07-13`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00356/bban00356pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00356/bban00356pl.jpg)
+
+> 【天然美月 初レズ！】私の身体を求める妹は今日も笑顔でキスを貪る…。姉妹のセックスに、理由も会話もいらない。放課後、今日も妹は姉の身体に没頭しながら濃厚なベロキスに溺れていく…。会話よりも本能で求め合うレズセックスに、部屋にはただ2人の淫猥な汁の音だけが響き渡っていく…。繋がり続ける背徳の肉欲剥き出...
 
 ---
 
