@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-16 19:39:58 (UTC)`
-> **独家影片**: `23` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-06-17 18:23:03 (UTC)`
+> **独家影片**: `22` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [波多野結衣 LESBIAN BEST ‘世界のハタノ’が魅せる超エロいレズセックス4時間！！](https://tv.dmm.co.jp/vod/detail/?title_id=bbss00065)
-
-**ID**: `bbss00065` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-17`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00065/bbss00065pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00065/bbss00065pl.jpg)
-
-> 女体を知り尽くし、あらゆる女性を快楽で満たしてきたレズ界のスーパースター「波多野結衣」のビビアン出演5タイトルの中よりここでしか見られない超濃厚なレズセックスを厳選収録！卑猥で淫乱にカラダを絡ませ絶頂へ導く波多野流オーガズムにノンケも蕩けまくりで超メロメロ絶頂歓喜！「世界のハタノ」が魅せるワールドク...
 
 ---
 
