@@ -1,6 +1,6 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-17 18:23:03 (UTC)`
+> **最后更新**: `2026-06-18 18:27:44 (UTC)`
 > **独家影片**: `22` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
@@ -151,16 +151,6 @@
 
 ---
 
-### 🎬 [あなたごめんね 夫以外のチ●ポをハメられて快感を貪る奥様たち。デカチンハメられて絶叫しながらお口に膣内にザーメン発射されちゃいました。](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00177)
-
-**ID**: `avkh00177` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-07-01`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00177/avkh00177pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00177/avkh00177pl.jpg)
-
-> 1人目奥様は新婚のマッサージ師さん。お仕事柄気持ちよくさせることが好きで、セックスも大好き。欲求不満気味で久々のチ●ポに欲望丸出し。美乳をブルンブルン揺らしながらイキまくり、お口にたっぷり出してあげました。2人目は元CA奥さん。見るからにエロい顔で服の上からわかる巨乳。最高です。そんな彼女の最高ボデ...
-
----
-
 ### 🎬 [あなたごめんね 清楚な奥様が日頃の不満をデカチンで大解消！ たっぷりしゃぶってたっぷりハメて大満足のドスケベ奥様！！](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00175)
 
 **ID**: `avkh00175` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-07-01`
@@ -168,6 +158,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00175/avkh00175pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00175/avkh00175pl.jpg)
 
 > 1人目の奥様はデカチン大好き。夫以外にセックスフレンドがいるドスケベさんです。デカチンを見て嬉しそうに食いつきます。グッポグッポと音を立ててエロいフェラ。マ●コにハメれば自ら腰をグリグリしながら気持ちいい場所に当てちゃう貪欲な奥様です。2人目はちょっとオリエンタルな感じの美人な巨乳奥さんです。恥ずか...
+
+---
+
+### 🎬 [あなたごめんね 夫以外のチ●ポをハメられて快感を貪る奥様たち。デカチンハメられて絶叫しながらお口に膣内にザーメン発射されちゃいました。](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00177)
+
+**ID**: `avkh00177` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-07-01`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00177/avkh00177pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00177/avkh00177pl.jpg)
+
+> 1人目奥様は新婚のマッサージ師さん。お仕事柄気持ちよくさせることが好きで、セックスも大好き。欲求不満気味で久々のチ●ポに欲望丸出し。美乳をブルンブルン揺らしながらイキまくり、お口にたっぷり出してあげました。2人目は元CA奥さん。見るからにエロい顔で服の上からわかる巨乳。最高です。そんな彼女の最高ボデ...
 
 ---
 
