@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-18 18:27:44 (UTC)`
-> **独家影片**: `22` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-06-19 18:01:32 (UTC)`
+> **独家影片**: `21` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [女子同士 友達同士。カラダの関係のない2人がプライベート自撮りレズ撮影。](https://tv.dmm.co.jp/vod/detail/?title_id=bbss00066)
-
-**ID**: `bbss00066` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.8` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-19`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00066/bbss00066pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00066/bbss00066pl.jpg)
-
-> 女友達と初めての同性えっち。仲良しの2人がドキドのレズキス。そのまま興奮が止まらなくて、女同士の同性交尾。お互いの気持ちいいところ、恥ずかしいところを恥ずかしそうに責めながら、高まる性欲は一向に止まらず…。素人裏垢系女子達のプライベート自撮りセックス。没頭するレズ映像 3組230分収録。
 
 ---
 
