@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-20 17:38:05 (UTC)`
-> **独家影片**: `21` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-06-21 17:42:44 (UTC)`
+> **独家影片**: `20` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [経験人数1人でデビューした私は、実は… BISEXUAL COMING OUT-バイセク告白- 3作品目で念願のレズ解禁！！ガチ照れしまくりレズイキSEX](https://tv.dmm.co.jp/vod/detail/?title_id=bban00399)
-
-**ID**: `bban00399` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.53` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-21`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00399/bban00399pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00399/bban00399pl.jpg)
-
-> デビュー前まで経験人数1人だった初心な146mの女の子。でも、実は女の子ともエッチな経験が…！？衝撃のバイセク宣言。可愛いお姉さん達に囲まれて赤面しながら’超クリトリス勃起’でガチ興奮！寧ろ女の子とのエッチの方が好きなんじゃない！？と思っちゃうほど気持ちよさそうにレズセックスに可愛く楽しくクリもしこ...
 
 ---
 
