@@ -1,6 +1,6 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-23 18:00:33 (UTC)`
+> **最后更新**: `2026-06-24 17:57:46 (UTC)`
 > **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
@@ -8,7 +8,7 @@
 
 ### 🎬 [酔った勢いでレズNTR 彼氏のいるノンケの友達が可愛すぎて…](https://tv.dmm.co.jp/vod/detail/?title_id=bban00400)
 
-**ID**: `bban00400` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.21` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-27`
+**ID**: `bban00400` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.25` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-27`
 
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00400/bban00400pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00400/bban00400pl.jpg)
 
