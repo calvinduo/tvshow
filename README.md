@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-26 17:51:42 (UTC)`
-> **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-06-27 17:14:30 (UTC)`
+> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [酔った勢いでレズNTR 彼氏のいるノンケの友達が可愛すぎて…](https://tv.dmm.co.jp/vod/detail/?title_id=bban00400)
-
-**ID**: `bban00400` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.25` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-27`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00400/bban00400pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00400/bban00400pl.jpg)
-
-> 【私とあの子は友達同士。そんなの分かっているけど、彼氏と仲良さそうにしているあの子を隣で見ていると、どうしても我慢できなくて…】女友達のまいに恋愛感情を抱く美月は、レズビアンだと打ち明けられずにいた。しかし溢れる思いはついに我慢の限界を迎え、酔った勢いで強引に身体の関係を結び…「いっぱいイッちゃたね...
 
 ---
 
