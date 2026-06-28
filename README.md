@@ -1,28 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-06-27 17:14:30 (UTC)`
-> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-06-28 17:16:55 (UTC)`
+> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [1カ月禁欲したどエロいベテラン女優二人を密室に閉じ込める。 川上ゆう 紗々原ゆり](https://tv.dmm.co.jp/vod/detail/?title_id=bban00410)
-
-**ID**: `bban00410` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.28` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-28`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00410/bban00410pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00410/bban00410pl.jpg)
-
-> いろいろあって1カ月間撮影をできず、プライベートでもSEXしていなかったベテラン女優2人。彼女たちを密室に閉じ込めてみたら欲望が爆発したどエロい映像が撮れちゃいました。SEXの気持ちよさを知っている女優にはあまりにも辛い期間だった…。禁欲で絶頂飢餓状態の2人がお互いの身体を貪りあいイキまくる！
-
----
-
-### 🎬 [2022年未満プレミア総集編 全タイトル全女優コンプリート8時間](https://tv.dmm.co.jp/vod/detail/?title_id=mmxd00033)
-
-**ID**: `mmxd00033` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `2.75` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-06-28`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmxd00033/mmxd00033pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmxd00033/mmxd00033pl.jpg)
-
-> イメージ撮影として呼び出したグラビアアイドルにいたずら三昧。撮影前は衣装合わせをこなして信じきったグラドルは、マネージャーも付けずに現場へ。撮影の内容が変更になっていることや衣装が違うこと、さらにはスタッフがいなくなっていくなどおかしなことばかり。ついには乳首さらされ、おっぱい揉まれ、マンコまで触ら...
 
 ---
 
