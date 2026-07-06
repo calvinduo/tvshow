@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-07-05 17:15:08 (UTC)`
-> **独家影片**: `10` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-07-06 18:13:04 (UTC)`
+> **独家影片**: `11` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -104,6 +104,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/atmd00228/atmd00228pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/atmd00228/atmd00228pl.jpg)
 
 > 大好評人気シリーズ「ビキニHUNTING」のベスト版！湘南ビーチのガチ素人の汗まみれ、砂まみれの日焼け跡チェックの臨場感は必見！5時間に濃縮された超お買い得商品です。
+
+---
+
+### 🎬 [唾液まみれで肢体を貪る親友強襲レズビアン 信じていた親友は私をつけ狙う下着泥棒でした 星宮こと 由良かな](https://tv.dmm.co.jp/vod/detail/?title_id=bban00401)
+
+**ID**: `bban00401` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.24` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-08-05`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00401/bban00401pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00401/bban00401pl.jpg)
+
+> 【星宮ことレズ解禁】連日で下着泥棒の被害に遭っていること。恐怖・不安・恥ずかしさでいっぱいだったが、親友のかなに相談して何とか気持ちを落ち着かせることに。そんなある日、ついに下着泥棒の姿をカメラで捉えることに成功したこと。しかし、そこに映っていたのは親友のかなの姿だった…。今までの眩しく尊い関係は崩...
 
 ---
 
