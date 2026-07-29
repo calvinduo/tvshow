@@ -1,6 +1,6 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-07-28 17:37:34 (UTC)`
+> **最后更新**: `2026-07-29 17:18:14 (UTC)`
 > **独家影片**: `8` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
@@ -8,7 +8,7 @@
 
 ### 🎬 [ねぇ。いっぱいキスしようよ！ Let’s kiss more！ 朝比奈ななせ 沙月恵奈](https://tv.dmm.co.jp/vod/detail/?title_id=bban00398)
 
-**ID**: `bban00398` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.05` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-07-31`
+**ID**: `bban00398` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-07-31`
 
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00398/bban00398pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00398/bban00398pl.jpg)
 
