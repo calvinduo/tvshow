@@ -1,6 +1,6 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-08-12 16:59:04 (UTC)`
+> **最后更新**: `2026-08-13 16:58:03 (UTC)`
 > **独家影片**: `12` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
@@ -86,6 +86,16 @@
 
 ---
 
+### 🎬 [青春時代宣言！！ 放課後Hなアルバイト。ウブな制服乙女の柔肌マ●コをデカチンでハメまくり！！](https://tv.dmm.co.jp/vod/detail/?title_id=bcpv00157)
+
+**ID**: `bcpv00157` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-07`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00157/bcpv00157pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00157/bcpv00157pl.jpg)
+
+> 学校帰りにHなアルバイトに来てもらったなぎちゃんとももちゃん。若いカラダはハリがあってピチピチ。未処理のマ●コはマン毛もケツ毛もボーボーです。チ●ポにあまり慣れてない彼女たちは初めてのデカチンに興味津々。ヌレヌレマンコをデカチンで遠慮なしに鬼ピストンすると絶叫しながら絶頂！最後はたっぷりザーメンをお...
+
+---
+
 ### 🎬 [あなたごめんね 美乳パイパン人妻は楽しみながら浮気するのが大好き！ 勝負下着を身にまとい旦那を忘れてデカチンでイキまくり！！](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00183)
 
 **ID**: `avkh00183` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-07`
@@ -103,16 +113,6 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00464/mdud00464pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00464/mdud00464pl.jpg)
 
 > 大ヒット『素人生ドル』シリーズの石橋渉監督がさらに過激になって帰ってきた！街の中はマスクを付けている人ばかり。だからこそできた、目元だけならばれないからと女の子も過激にエスカレート！生ハメを受け入れ終にはガチ中出しまで受け入れちゃいます！素人娘の性がここにあり！シリーズ最高傑作のかわいさ！AV女優で...
-
----
-
-### 🎬 [青春時代宣言！！ 放課後Hなアルバイト。ウブな制服乙女の柔肌マ●コをデカチンでハメまくり！！](https://tv.dmm.co.jp/vod/detail/?title_id=bcpv00157)
-
-**ID**: `bcpv00157` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-07`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00157/bcpv00157pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00157/bcpv00157pl.jpg)
-
-> 学校帰りにHなアルバイトに来てもらったなぎちゃんとももちゃん。若いカラダはハリがあってピチピチ。未処理のマ●コはマン毛もケツ毛もボーボーです。チ●ポにあまり慣れてない彼女たちは初めてのデカチンに興味津々。ヌレヌレマンコをデカチンで遠慮なしに鬼ピストンすると絶叫しながら絶頂！最後はたっぷりザーメンをお...
 
 ---
 
