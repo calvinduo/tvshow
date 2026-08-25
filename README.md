@@ -1,6 +1,6 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-08-24 16:40:23 (UTC)`
+> **最后更新**: `2026-08-25 16:39:58 (UTC)`
 > **独家影片**: `15` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
@@ -38,7 +38,7 @@
 
 ### 🎬 [ギャルエステシャン痴●](https://tv.dmm.co.jp/vod/detail/?title_id=1shn00049)
 
-**ID**: `1shn00049` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-08-31`
+**ID**: `1shn00049` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.6` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-08-31`
 
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shn00049/1shn00049pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shn00049/1shn00049pl.jpg)
 
