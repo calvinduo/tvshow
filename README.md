@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-08-29 00:28:24 (UTC)`
-> **独家影片**: `15` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-08-29 19:17:18 (UTC)`
+> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -153,6 +153,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmxd00029/mmxd00029pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mmxd00029/mmxd00029pl.jpg)
 
 > 2020年の未満レーベル総決算！ワケあり素人＆グラドル13人穢し揉み映像をド～ンとまとめて収録しました。「このおっぱいはまさに人間国宝」むっちむち爆乳娘たちに限界までムリヤリ好き放題8時間。「こんな恥ずかしいことされて…もうダメですぅ」女の子の黒歴史映像を勝手にまとめて発売！むにゅむにゅペロペロ…若...
+
+---
+
+### 🎬 [レズグルイ 賭けられるのは現金か女の身体…。](https://tv.dmm.co.jp/vod/detail/?title_id=bban00314)
+
+**ID**: `bban00314` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.76` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-28`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00314/bban00314pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00314/bban00314pl.jpg)
+
+> 女性限定の高級カジノ。賭けられるのは現金。しかし、それ以外のものも賭けられる。それは女性の身体。無類のギャンブル好きでレズに狂った女たちの宴が今日もはじまる…さぁレズグルイましょう！久留木玲×美園和花×南梨央奈×大谷翔子。超豪華キャストで贈る最高のエンターテイメントレズビアン！勝負に負けてレズプレイ...
 
 ---
 
