@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-08-29 19:17:18 (UTC)`
-> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-08-30 19:09:09 (UTC)`
+> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -163,6 +163,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00314/bban00314pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00314/bban00314pl.jpg)
 
 > 女性限定の高級カジノ。賭けられるのは現金。しかし、それ以外のものも賭けられる。それは女性の身体。無類のギャンブル好きでレズに狂った女たちの宴が今日もはじまる…さぁレズグルイましょう！久留木玲×美園和花×南梨央奈×大谷翔子。超豪華キャストで贈る最高のエンターテイメントレズビアン！勝負に負けてレズプレイ...
+
+---
+
+### 🎬 [未満式着衣いたずら いいなり美少女の巨乳とおま●こを弄ぶ 生パンツ完全穢し撮り40人8時間](https://tv.dmm.co.jp/vod/detail/?title_id=pfes00004)
+
+**ID**: `pfes00004` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.8` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-29`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pfes00004/pfes00004pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pfes00004/pfes00004pl.jpg)
+
+> 未満式着衣いたずらの新ベスト！言いなり美少女40人の巨乳と生下着をじっくり堪能する480分。「これってグラビア撮影ですか？」ワケありな本物アイドルや素人女子大生の裏バイト。天然ものの美巨乳と染みパンツと濡れおま●こを徹底的に味わい尽くす。若い女の子のカラダは見るだけで興奮、感じ過ぎておパンツ超濡れ染...
 
 ---
 
