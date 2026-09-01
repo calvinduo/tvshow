@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-08-31 21:22:04 (UTC)`
-> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-09-01 19:16:31 (UTC)`
+> **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -183,6 +183,17 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/148acdv01021/148acdv01021pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/148acdv01021/148acdv01021pl.jpg)
 
 > これはヤバい！電車内でエスカレートする痴●＆痴女！！服の上からネチネチ弄られ、口には極太の肉棒がねじ込まれる！女は抵抗できずに、されるがまま…。
+
+---
+
+### 🎬 [【8本丸ごと大収録】Dynamite SP 優月まりな17時間](https://tv.dmm.co.jp/vod/detail/?title_id=mgdv00065)
+
+**ID**: `mgdv00065` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.78` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-01`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mgdv00065/mgdv00065pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mgdv00065/mgdv00065pl.jpg)
+
+> 17時間…全部優月まりな！これぞ爆乳！見た目のかわいさとアンバランスな驚愕の神ボイン！スーパーKカップくびれ美女「優月まりな」が『Dynamite SP』シリーズに登場！
+「中年おやじサークル中出しオフ会…」「老人たちに寝取られたセックスレスの…」「海外単身赴任の夫のために撮影した…」「オイルボイン...
 
 ---
 
