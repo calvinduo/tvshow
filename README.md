@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-02 19:16:55 (UTC)`
-> **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-09-03 19:11:12 (UTC)`
+> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [First Love 時間も忘れて没頭していく溶けるようなレズFUCK 柊紗栄子 うららか麗](https://tv.dmm.co.jp/vod/detail/?title_id=bban00317)
-
-**ID**: `bban00317` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.44` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-03`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00317/bban00317pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00317/bban00317pl.jpg)
-
-> 【柊紗栄子 初レズ×バイセクシャルうららか麗】ノンケの女の子をレズに没頭させていく甘い誘惑。いやらしく見つめ合う視線の先に欲望が渦巻き、互いの心を近づけていく…。時間も忘れてレズSEXに酔いしれていく美しい2人の、リアルな世界。緊張と期待の中で感じる熱いレズキスに、柊紗栄子のカラダは蕩けていく。うら...
 
 ---
 
