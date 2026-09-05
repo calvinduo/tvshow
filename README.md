@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-04 18:53:48 (UTC)`
-> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-09-05 17:59:51 (UTC)`
+> **独家影片**: `21` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -184,6 +184,36 @@
 
 > 17時間…全部優月まりな！これぞ爆乳！見た目のかわいさとアンバランスな驚愕の神ボイン！スーパーKカップくびれ美女「優月まりな」が『Dynamite SP』シリーズに登場！
 「中年おやじサークル中出しオフ会…」「老人たちに寝取られたセックスレスの…」「海外単身赴任の夫のために撮影した…」「オイルボイン...
+
+---
+
+### 🎬 [恋する花嫁 Ultimate Best 売上ランキング上位8名特別厳選！超濃厚8時間スペシャル！](https://tv.dmm.co.jp/vod/detail/?title_id=avkh00201)
+
+**ID**: `avkh00201` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.33` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-05`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00201/avkh00201pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/avkh00201/avkh00201pl.jpg)
+
+> ついに来た！人気シリーズ「恋する花嫁」から令和の人妻祭り！！今回は特に売り上げ成績が良かった8名を特別厳選！！全員顔面偏差値80オーバー！！！しかも8時間の大・大・大ボリューム版！！！恋花史上、最も乱れまくった超絶美人妻たちのSEXを心ゆくまでタップリ楽しんでください！！！
+
+---
+
+### 🎬 [令和のバイトちゃん女子校生祭り！売上ランキングから上位8名特別厳選！！至極の8時間スペシャル！！！](https://tv.dmm.co.jp/vod/detail/?title_id=bcpv00171)
+
+**ID**: `bcpv00171` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-05`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00171/bcpv00171pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bcpv00171/bcpv00171pl.jpg)
+
+> ついに来た！人気シリーズ「バイトちゃん」から令和の女子校生祭り！！今回は特に売り上げ成績が良かった8名を特別厳選！！全員顔面偏差値80オーバー！！！しかも8時間の大・大・大ボリューム版！！！令和の美少女J○たちの爽やかなSEXを心ゆくまでタップリ楽しんでください！！！
+
+---
+
+### 🎬 [石橋渉の素人中出し6](https://tv.dmm.co.jp/vod/detail/?title_id=mdud00465)
+
+**ID**: `mdud00465` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-05`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00465/mdud00465pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00465/mdud00465pl.jpg)
+
+> 大ヒット『素人生ドル』シリーズの石橋渉監督がさらに過激になって帰ってきた！街の中はマスクを付けている人ばかり。だからこそできた、目元だけならばれないからと女の子も過激にエスカレート！生ハメを受け入れ終にはガチ中出しまで受け入れちゃいます！素人娘の性がここにあり！
 
 ---
 
