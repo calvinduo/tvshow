@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-11 19:02:24 (UTC)`
-> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-09-12 18:12:47 (UTC)`
+> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -174,6 +174,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00465/mdud00465pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00465/mdud00465pl.jpg)
 
 > 大ヒット『素人生ドル』シリーズの石橋渉監督がさらに過激になって帰ってきた！街の中はマスクを付けている人ばかり。だからこそできた、目元だけならばれないからと女の子も過激にエスカレート！生ハメを受け入れ終にはガチ中出しまで受け入れちゃいます！素人娘の性がここにあり！
+
+---
+
+### 🎬 [滴る汗も気にせずに乱れ合う2人。 汗だくレズビアンFUCK総集編 4時間](https://tv.dmm.co.jp/vod/detail/?title_id=bbss00049)
+
+**ID**: `bbss00049` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-12`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00049/bbss00049pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00049/bbss00049pl.jpg)
+
+> 汗だくになって欲望のままに求め合うレズセックスはエロい。汁だく・汗だくになって濡れる髪をかき分けながら、快感に喘ぎ唾液を垂らすほどのベロキスを求めてビクビクと絶頂する2人だけの本能汗だくSEXを詰め込んだ情熱レズベスト。人気作から懐かしの旧作まで9作品厳選の240分。
 
 ---
 
