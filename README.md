@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-20 18:33:38 (UTC)`
-> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-09-21 20:18:42 (UTC)`
+> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [とあるヲタクの活動記録12](https://tv.dmm.co.jp/vod/detail/?title_id=pcde00012)
-
-**ID**: `pcde00012` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-21`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00012/pcde00012pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00012/pcde00012pl.jpg)
-
-> あるヲタクが話術と金に物を言わせてコスプレ娘たちをハメ撮りまくる！今回獲物になった3人の美少女のコスプレH姿をご覧ください！
 
 ---
 
