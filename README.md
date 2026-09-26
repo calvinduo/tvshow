@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-25 19:54:32 (UTC)`
-> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-09-26 19:06:16 (UTC)`
+> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -164,6 +164,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pfes00010/pfes00010pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pfes00010/pfes00010pl.jpg)
 
 > 素人女子大生さんの染み付きパンティがほし～い！！蓮実クレアが「ファッションチェック」と称して連れ込みナンパ！強引にパンティを見せてもらい、あの手この手で女子大生の濡れたてパンティをゲット！戸惑う素人さんを無視して蓮実クレアがキス、愛撫で責めたて、恥ずかしそうにビクビクしながらも布には愛液が染みてきて...
+
+---
+
+### 🎬 [とあるヲタクの活動記録13](https://tv.dmm.co.jp/vod/detail/?title_id=pcde00013)
+
+**ID**: `pcde00013` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-26`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00013/pcde00013pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00013/pcde00013pl.jpg)
+
+> あるヲタクが話術と金に物を言わせてコスプレ娘たちをハメ撮りまくる！今回獲物になった3人の美少女のコスプレH姿をご覧ください！
 
 ---
 
