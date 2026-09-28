@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-27 19:38:14 (UTC)`
-> **独家影片**: `17` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-09-28 21:40:48 (UTC)`
+> **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [レズグルイ 賭けられるのは現金か女の身体…。](https://tv.dmm.co.jp/vod/detail/?title_id=bban00314)
-
-**ID**: `bban00314` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.76` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-28`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00314/bban00314pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00314/bban00314pl.jpg)
-
-> 女性限定の高級カジノ。賭けられるのは現金。しかし、それ以外のものも賭けられる。それは女性の身体。無類のギャンブル好きでレズに狂った女たちの宴が今日もはじまる…さぁレズグルイましょう！久留木玲×美園和花×南梨央奈×大谷翔子。超豪華キャストで贈る最高のエンターテイメントレズビアン！勝負に負けてレズプレイ...
 
 ---
 
@@ -68,7 +58,7 @@
 
 ### 🎬 [パンストを濡らしながら足を震わせイキまくった美脚OL](https://tv.dmm.co.jp/vod/detail/?title_id=1nhdtb00238a)
 
-**ID**: `1nhdtb00238a` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-30`
+**ID**: `1nhdtb00238a` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-30`
 
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1nhdtb00238a/1nhdtb00238apl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1nhdtb00238a/1nhdtb00238apl.jpg)
 
