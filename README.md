@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-28 21:40:48 (UTC)`
+> **最后更新**: `2026-09-29 20:31:24 (UTC)`
 > **独家影片**: `16` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [未満式着衣いたずら いいなり美少女の巨乳とおま●こを弄ぶ 生パンツ完全穢し撮り40人8時間](https://tv.dmm.co.jp/vod/detail/?title_id=pfes00004)
-
-**ID**: `pfes00004` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.8` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-09-29`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pfes00004/pfes00004pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pfes00004/pfes00004pl.jpg)
-
-> 未満式着衣いたずらの新ベスト！言いなり美少女40人の巨乳と生下着をじっくり堪能する480分。「これってグラビア撮影ですか？」ワケありな本物アイドルや素人女子大生の裏バイト。天然ものの美巨乳と染みパンツと濡れおま●こを徹底的に味わい尽くす。若い女の子のカラダは見るだけで興奮、感じ過ぎておパンツ超濡れ染...
 
 ---
 
@@ -164,6 +154,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00013/pcde00013pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00013/pcde00013pl.jpg)
 
 > あるヲタクが話術と金に物を言わせてコスプレ娘たちをハメ撮りまくる！今回獲物になった3人の美少女のコスプレH姿をご覧ください！
+
+---
+
+### 🎬 [神納花とあおいれな ノーカットレズビアンライブ](https://tv.dmm.co.jp/vod/detail/?title_id=bban00315)
+
+**ID**: `bban00315` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.2` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-29`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00315/bban00315pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00315/bban00315pl.jpg)
+
+> 遠慮なんてまったくいらない。どこをどう責めれば気持ちよくなるかなんて手に取るようにわかる。ほらやっぱり！ここが気持ちいいんでしょう？自分が持っている感覚が合致した時、自然と笑いながら一心不乱に相手を責めまくる！もっと！もっとできるはず！もっと気持ちよくなれるはず！アナタの最高の快楽を導きだしてあげる...
 
 ---
 
