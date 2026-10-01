@@ -1,19 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-09-30 20:38:22 (UTC)`
-> **独家影片**: `8` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-10-01 20:52:46 (UTC)`
+> **独家影片**: `13` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [【8本丸ごと大収録】Dynamite SP 優月まりな17時間](https://tv.dmm.co.jp/vod/detail/?title_id=mgdv00065)
-
-**ID**: `mgdv00065` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.78` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-01`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mgdv00065/mgdv00065pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mgdv00065/mgdv00065pl.jpg)
-
-> 17時間…全部優月まりな！これぞ爆乳！見た目のかわいさとアンバランスな驚愕の神ボイン！スーパーKカップくびれ美女「優月まりな」が『Dynamite SP』シリーズに登場！
-「中年おやじサークル中出しオフ会…」「老人たちに寝取られたセックスレスの…」「海外単身赴任の夫のために撮影した…」「オイルボイン...
 
 ---
 
@@ -84,6 +73,66 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00315/bban00315pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00315/bban00315pl.jpg)
 
 > 遠慮なんてまったくいらない。どこをどう責めれば気持ちよくなるかなんて手に取るようにわかる。ほらやっぱり！ここが気持ちいいんでしょう？自分が持っている感覚が合致した時、自然と笑いながら一心不乱に相手を責めまくる！もっと！もっとできるはず！もっと気持ちよくなれるはず！アナタの最高の快楽を導きだしてあげる...
+
+---
+
+### 🎬 [【配信専用】総勢18人！美巨乳女の野外生着替えを覗きまくりの12時間プレミアム総集編](https://tv.dmm.co.jp/vod/detail/?title_id=118long00017)
+
+**ID**: `118long00017` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/118long00017/118long00017pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/118long00017/118long00017pl.jpg)
+
+> 青空の下、まさかの美巨乳女の生着替え現場に遭遇！自由に揺れる巨乳に興奮した僕は…！誰にも見られてないと油断している美巨乳女18人を覗きまくりの730分！！
+
+---
+
+### 🎬 [羽田希 AV引退 最後の痴●覚醒 ～公然羞恥、集団イカセ、全裸SEX、連続ぶっかけ～](https://tv.dmm.co.jp/vod/detail/?title_id=1shh00032)
+
+**ID**: `1shh00032` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.86` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shh00032/1shh00032pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shh00032/1shh00032pl.jpg)
+
+> デビューから13年…羽田希がAV引退！！最後の‘痴●’に挑む！ 満員電車で待ち受けている過激の洗礼！ 尻を触られ、胸を揉まれ、戸惑いながらも感度抜群！！大勢の痴●師たちから服を剥ぎ取られ素っ裸に！ ジロジロ視姦され濡れた剛毛マ●コにぶち込めば理性も吹っ飛びイキ狂う！ そして、仕上げは大量ぶっかけ！！...
+
+---
+
+### 🎬 [カンパニー松尾 監督25周年特別企画 輝け！日本ハメ撮り大賞 2013 part.1](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmnf00030)
+
+**ID**: `h_172hmnf00030` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00030/h_172hmnf00030pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00030/h_172hmnf00030pl.jpg)
+
+> AVを代表するハメドリスト15人が集まり、己の技とチ●ポとプライドを懸け、グランプリを目指す一大ハメ撮り祭り、ここに開幕！3人のドスケベ女優に襲いかかる15人のハメ撮りマスター達。はたして、真のハメ撮り‘グランドマスター’は誰の手に！！
+
+---
+
+### 🎬 [全国のエロ奥さん アソコ洗おて待っとけや 4時間スペシャル 日本各地のフェロモン美人妻 厳選10人豪華版](https://tv.dmm.co.jp/vod/detail/?title_id=149rd00362)
+
+**ID**: `149rd00362` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/149rd00362/149rd00362pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/149rd00362/149rd00362pl.jpg)
+
+> エロの塊・市原克也の大人気シリーズ「全国のエロ奥さんアソコ洗おて待っとけや」の総集編の第2弾が早くも登場！地方から届く、躰が疼きまくっている奥様たちからのSOSを、市原監督の股間アンテナがしっかりキャッチ！数多く出演したエロ奥様の中から、厳選に厳選を重ねた極上の10人をピックアップ。日常の不満を忘れ...
+
+---
+
+### 🎬 [恥ずかしいカラダ 初撮りGカップ セイラ](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmgl00076)
+
+**ID**: `h_172hmgl00076` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00076/h_172hmgl00076pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00076/h_172hmgl00076pl.jpg)
+
+> スーパーモデル顔負けの八頭身ボディの持ち主・セイラ。普段はアパレルで働く彼女が「高校時代の友達がAV女優になって、アンタもやんなよ」って誘われ、その気になってAVデビュー。「ナマでしかしたことない」という生粋のスケベ女セイラの緊張の初撮りAVデビュー作！！
+
+---
+
+### 🎬 [世界弾丸ハメドラー ラスト 早川瀬里奈](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmnf00047)
+
+**ID**: `h_172hmnf00047` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `2.33` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00047/h_172hmnf00047pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00047/h_172hmnf00047pl.jpg)
+
+> 美脚美尻の早川瀬里奈さん。今回の引退にあたりハメドラーご出演となりました。向かった先は、彼女が約10年前に出演したとある外国映画のロケ地。そこで足掛け12年に及ぶ今までのAV活動を振り返ると共に、ラストを飾るにふさわしいセックスを披露する。その波乱万丈の人生から何を学び、何を見たのか？ハダカの彼女に...
 
 ---
 
