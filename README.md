@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-10-09 20:39:34 (UTC)`
-> **独家影片**: `13` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-10-10 19:53:29 (UTC)`
+> **独家影片**: `14` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -133,6 +133,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00466/mdud00466pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00466/mdud00466pl.jpg)
 
 > 大ヒット『素人生ドル』シリーズの石橋渉監督がさらに過激になって帰ってきた！街の中はマスクを付けている人ばかり。だからこそできた、目元だけならばれないからと女の子も過激にエスカレート！生ハメを受け入れ終にはガチ中出しまで受け入れちゃいます！素人娘の性がここにあり！
+
+---
+
+### 🎬 [卒業式のあとで… 卒業生と元担任の切ない百合物語。 清宮すず 加藤あやの](https://tv.dmm.co.jp/vod/detail/?title_id=bban00319)
+
+**ID**: `bban00319` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-09`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00319/bban00319pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00319/bban00319pl.jpg)
+
+> 先生…。この気持ちは何？先生が私にキスしてくれた時…。胸の奥があったかくなった。小さいけれど、あったかくって優しい気持ち…。でもその中を探ろうとするとドキドキが止まらなくなって少し怖いんです…。笑顔満点巨乳美少女、清宮すず待望のレズ解禁！
 
 ---
 
