@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-10-11 20:00:49 (UTC)`
-> **独家影片**: `14` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-10-12 22:47:55 (UTC)`
+> **独家影片**: `13` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [滴る汗も気にせずに乱れ合う2人。 汗だくレズビアンFUCK総集編 4時間](https://tv.dmm.co.jp/vod/detail/?title_id=bbss00049)
-
-**ID**: `bbss00049` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-12`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00049/bbss00049pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bbss00049/bbss00049pl.jpg)
-
-> 汗だくになって欲望のままに求め合うレズセックスはエロい。汁だく・汗だくになって濡れる髪をかき分けながら、快感に喘ぎ唾液を垂らすほどのベロキスを求めてビクビクと絶頂する2人だけの本能汗だくSEXを詰め込んだ情熱レズベスト。人気作から懐かしの旧作まで9作品厳選の240分。
 
 ---
 
