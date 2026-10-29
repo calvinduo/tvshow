@@ -1,18 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-10-28 20:51:40 (UTC)`
+> **最后更新**: `2026-10-29 20:56:38 (UTC)`
 > **独家影片**: `12` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [神納花とあおいれな ノーカットレズビアンライブ](https://tv.dmm.co.jp/vod/detail/?title_id=bban00315)
-
-**ID**: `bban00315` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.2` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-29`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00315/bban00315pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00315/bban00315pl.jpg)
-
-> 遠慮なんてまったくいらない。どこをどう責めれば気持ちよくなるかなんて手に取るようにわかる。ほらやっぱり！ここが気持ちいいんでしょう？自分が持っている感覚が合致した時、自然と笑いながら一心不乱に相手を責めまくる！もっと！もっとできるはず！もっと気持ちよくなれるはず！アナタの最高の快楽を導きだしてあげる...
 
 ---
 
@@ -123,6 +113,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00014/pcde00014pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/pcde00014/pcde00014pl.jpg)
 
 > あるヲタクが話術と金に物を言わせてコスプレ娘たちをハメ撮りまくる！今回獲物になった3人の美少女のコスプレH姿をご覧ください！
+
+---
+
+### 🎬 [突如はじまる恋の瞬間。美しきレズビアン関係 ロシアンビューティ×ジャパニーズビューティ リリー・ハート 東希美](https://tv.dmm.co.jp/vod/detail/?title_id=bban00322)
+
+**ID**: `bban00322` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.54` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-28`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00322/bban00322pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00322/bban00322pl.jpg)
+
+> 女性同士がこんなに気持ちがいいなんて知らなかった。もうアナタ無しでは私の人生、考えられない。こんなに燃えるような恋の感情は初めて！ロシアンビューティ、リリー・ハートとジャパニーズビューティ、東希美の軌跡のWレズ解禁！美しきレズビアンをご堪能ください。
 
 ---
 
