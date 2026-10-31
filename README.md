@@ -1,68 +1,8 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-10-30 20:31:41 (UTC)`
-> **独家影片**: `12` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-10-31 19:46:53 (UTC)`
+> **独家影片**: `21` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
-
----
-
-### 🎬 [【配信専用】総勢18人！美巨乳女の野外生着替えを覗きまくりの12時間プレミアム総集編](https://tv.dmm.co.jp/vod/detail/?title_id=118long00017)
-
-**ID**: `118long00017` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/118long00017/118long00017pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/118long00017/118long00017pl.jpg)
-
-> 青空の下、まさかの美巨乳女の生着替え現場に遭遇！自由に揺れる巨乳に興奮した僕は…！誰にも見られてないと油断している美巨乳女18人を覗きまくりの730分！！
-
----
-
-### 🎬 [羽田希 AV引退 最後の痴●覚醒 ～公然羞恥、集団イカセ、全裸SEX、連続ぶっかけ～](https://tv.dmm.co.jp/vod/detail/?title_id=1shh00032)
-
-**ID**: `1shh00032` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.86` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shh00032/1shh00032pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shh00032/1shh00032pl.jpg)
-
-> デビューから13年…羽田希がAV引退！！最後の‘痴●’に挑む！ 満員電車で待ち受けている過激の洗礼！ 尻を触られ、胸を揉まれ、戸惑いながらも感度抜群！！大勢の痴●師たちから服を剥ぎ取られ素っ裸に！ ジロジロ視姦され濡れた剛毛マ●コにぶち込めば理性も吹っ飛びイキ狂う！ そして、仕上げは大量ぶっかけ！！...
-
----
-
-### 🎬 [カンパニー松尾 監督25周年特別企画 輝け！日本ハメ撮り大賞 2013 part.1](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmnf00030)
-
-**ID**: `h_172hmnf00030` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00030/h_172hmnf00030pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00030/h_172hmnf00030pl.jpg)
-
-> AVを代表するハメドリスト15人が集まり、己の技とチ●ポとプライドを懸け、グランプリを目指す一大ハメ撮り祭り、ここに開幕！3人のドスケベ女優に襲いかかる15人のハメ撮りマスター達。はたして、真のハメ撮り‘グランドマスター’は誰の手に！！
-
----
-
-### 🎬 [全国のエロ奥さん アソコ洗おて待っとけや 4時間スペシャル 日本各地のフェロモン美人妻 厳選10人豪華版](https://tv.dmm.co.jp/vod/detail/?title_id=149rd00362)
-
-**ID**: `149rd00362` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/149rd00362/149rd00362pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/149rd00362/149rd00362pl.jpg)
-
-> エロの塊・市原克也の大人気シリーズ「全国のエロ奥さんアソコ洗おて待っとけや」の総集編の第2弾が早くも登場！地方から届く、躰が疼きまくっている奥様たちからのSOSを、市原監督の股間アンテナがしっかりキャッチ！数多く出演したエロ奥様の中から、厳選に厳選を重ねた極上の10人をピックアップ。日常の不満を忘れ...
-
----
-
-### 🎬 [恥ずかしいカラダ 初撮りGカップ セイラ](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmgl00076)
-
-**ID**: `h_172hmgl00076` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00076/h_172hmgl00076pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00076/h_172hmgl00076pl.jpg)
-
-> スーパーモデル顔負けの八頭身ボディの持ち主・セイラ。普段はアパレルで働く彼女が「高校時代の友達がAV女優になって、アンタもやんなよ」って誘われ、その気になってAVデビュー。「ナマでしかしたことない」という生粋のスケベ女セイラの緊張の初撮りAVデビュー作！！
-
----
-
-### 🎬 [世界弾丸ハメドラー ラスト 早川瀬里奈](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmnf00047)
-
-**ID**: `h_172hmnf00047` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `2.33` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-10-31`
-
-[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00047/h_172hmnf00047pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00047/h_172hmnf00047pl.jpg)
-
-> 美脚美尻の早川瀬里奈さん。今回の引退にあたりハメドラーご出演となりました。向かった先は、彼女が約10年前に出演したとある外国映画のロケ地。そこで足掛け12年に及ぶ今までのAV活動を振り返ると共に、ラストを飾るにふさわしいセックスを披露する。その波乱万丈の人生から何を学び、何を見たのか？ハダカの彼女に...
 
 ---
 
@@ -123,6 +63,156 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00322/bban00322pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00322/bban00322pl.jpg)
 
 > 女性同士がこんなに気持ちがいいなんて知らなかった。もうアナタ無しでは私の人生、考えられない。こんなに燃えるような恋の感情は初めて！ロシアンビューティ、リリー・ハートとジャパニーズビューティ、東希美の軌跡のWレズ解禁！美しきレズビアンをご堪能ください。
+
+---
+
+### 🎬 [ハダカのワタシ 高橋未来](https://tv.dmm.co.jp/vod/detail/?title_id=h_714sbmo01239)
+
+**ID**: `h_714sbmo01239` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.2` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_714sbmo01239/h_714sbmo01239pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_714sbmo01239/h_714sbmo01239pl.jpg)
+
+> 清楚でおだやかな笑顔がキュートな朝摘み美少女『高橋未来』ちゃんの純白の妹体型のハダカの魅力を一眼レフムービーの映像で解析してみます・・。ハダカで体温計を測ったりハダカで水鉄砲攻撃を受けたりハダカで牛乳を垂らされたり・・ハダカで・・されたり・・。
+
+---
+
+### 🎬 [ビキニグラマラス 中出しリゾート 八ッ橋さい子](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmgl00139)
+
+**ID**: `h_172hmgl00139` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `2.8` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00139/h_172hmgl00139pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00139/h_172hmgl00139pl.jpg)
+
+> イベントで知り合ったスーパー素人さい子ちゃんと南の島へハメ撮り旅行。まずはエロムチボディを派手なビキニに包んでビーチやプールを闊歩。谷間を見せつけ、デカ尻をプリプリさせながら歩くさい子に欲情！ビキニで個室ファックから白昼のラブホでマン汁多目のたっぷりナマ挿入から中出しフィニッシュ！ドスケベさい子と南...
+
+---
+
+### 🎬 [エロチク、エロ尻、エロマン毛！！無敵ボディのお姉さんと童貞卒業SEX 真木かおり](https://tv.dmm.co.jp/vod/detail/?title_id=koz00010)
+
+**ID**: `koz00010` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koz00010/koz00010pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koz00010/koz00010pl.jpg)
+
+> 童貞たちの本音を聞きながら長身美女の真木かおりさんが脱童貞をサポート。最初の童貞はかおりさんの美脚を触りたいとアピール。2人目は叱られながらかおりさんのオナニーを見たいと要望。3人目は混浴を希望。彼らの様々な要望を叶えながら童貞の肉棒を嬉しそうに弄ぶかおりさん。果たして3人は無事童貞卒業となるのか？...
+
+---
+
+### 🎬 [超敏感素人 拘束全身くすぐり](https://tv.dmm.co.jp/vod/detail/?title_id=koch00015)
+
+**ID**: `koch00015` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `5` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koch00015/koch00015pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koch00015/koch00015pl.jpg)
+
+> 素人女性を完全に拘束して身動きが取れないようにする。そしてやらしく動く男の手が女体に忍び寄るや女達は絶叫する。体をじたばた、拘束具も引きちぎらん勢いでのた打ち回る女達。「ぎゃ～しぬ～、やめて～」泣こうがわめこうが、終わる事のないくすぐり地獄。S心をもくすぐる、素人くすぐりご堪能ください！！
+
+---
+
+### 🎬 [【480分】30タイトル厳選 個撮・中出し・輪●・制服・海・クラブ・ラブホ・密室・食ザー拘束・初脱ぎ・巨乳 BEST 初代渋谷特別特攻本部](https://tv.dmm.co.jp/vod/detail/?title_id=h_1133honb09002)
+
+**ID**: `h_1133honb09002` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.25` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_1133honb09002/h_1133honb09002pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_1133honb09002/h_1133honb09002pl.jpg)
+
+> 遂に出た！初代渋谷特別特攻本部ベスト！あぶない映像ばかりの閲覧注意動画を480分！！これで今年はキン●マ空っぽ間違いなし！一緒に箱ティッシュまとめ買いオススメ致します。是非本年も宜しくお願い申し上げます。
+
+---
+
+### 🎬 [巫女コスッ！！ 2](https://tv.dmm.co.jp/vod/detail/?title_id=66sak8488)
+
+**ID**: `66sak8488` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/66sak08488/66sak08488pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/66sak08488/66sak08488pl.jpg)
+
+> 神聖な巫女装束を身にまとい人気女優がエッチに興ずる「巫女コスッ」第2弾。凛とした中に大人の色香漂う姫川りな、独特の癒し＆フェロモンを放つ野沢友花、正統派美少女で元気娘の陽多まり、愛くるしいファニーフェイスが魅力の期待の新人夕月みずほが淫らな快楽の世界に酔い痴れる。
+
+---
+
+### 🎬 [妻がいる至近距離で寝取りエステ 平然とマッサージしながらこっそりチ○ポを挿入し腰振り騎乗位で中出しまでさせる小悪魔系おじさん殺しエステティシャン](https://tv.dmm.co.jp/vod/detail/?title_id=1shh00031)
+
+**ID**: `1shh00031` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shh00031/1shh00031pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/1shh00031/1shh00031pl.jpg)
+
+> 結婚記念日の旅行を楽しむ男を大胆に誘惑するエステティシャン。先に施術を終えて寝てしまった奥さんの間近で猥褻マッサージ！ 弄ぶように指先で乳首をこねくり回し、股間周りを刺激して勃起を誘発！！しかも、おもむろに跨ってきたと思ったら…スカート内で擦りつけ、勝手にナマ挿し！！バレそうになったら布団の中へ！ ...
+
+---
+
+### 🎬 [超肉体×パンスト女教師 新奈ありさ](https://tv.dmm.co.jp/vod/detail/?title_id=koz00008)
+
+**ID**: `koz00008` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koz00008/koz00008pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koz00008/koz00008pl.jpg)
+
+> 挑発的な美脚で男子生徒や校長を悩殺しまくっている長身美人の新奈先生。タイトスカートから覗くパンストと美脚に爆発寸前の男子たちをスケベにエロく責め立てていく。1ドM校長に足コキ・見せつけオナニー 2女医に扮して主観足コキ診察 3ダメ生徒にお仕置き潮吹き3PSEX！と高圧的でスケベな新奈先生を堪能してく...
+
+---
+
+### 🎬 [高身長の兄嫁相姦 今村楓](https://tv.dmm.co.jp/vod/detail/?title_id=kok00013)
+
+**ID**: `kok00013` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/kok00013/kok00013pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/kok00013/kok00013pl.jpg)
+
+> 夫と結婚して数年、こつこつと貯金してきたおかげで念願の一戸建てを買うことができました。これから夫と新しい生活が始まると思っていました。そんな矢先の事です。ひょんなことから夫の弟・マサオ君と同居することになったのです。しかも、マサオ君は仕事もせず一日中部屋に引き篭もっています。私としては、子供も欲しい...
+
+---
+
+### 🎬 [通りすがりのAV女優18春の裸編](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmnf00066)
+
+**ID**: `h_172hmnf00066` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `2.75` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00066/h_172hmnf00066pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmnf00066/h_172hmnf00066pl.jpg)
+
+> 美巨乳りのは惚れ惚れするカラダの持ち主。ムチムチのおま○こと結合すると悶絶テクで男を手玉にとる完成度の高いエロボディとのセックスしてくれました。ドスケベシングルマザーの雪は何度も何度も絶頂して果てていました。静かな春の花街実情、セックスワーカーの粋（イキ）姿！！
+
+---
+
+### 🎬 [巨乳揺れくすぐり](https://tv.dmm.co.jp/vod/detail/?title_id=koch00005)
+
+**ID**: `koch00005` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koch00005/koch00005pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/koch00005/koch00005pl.jpg)
+
+> 巨乳限定！今回のコチョマンくすぐり作品は巨乳を集めとにかくくすぐる！巨乳だからもちろん揺れる、揺れる！シャツから巨大な乳をはみ出しぷるんぷるんしながら絶叫する姿はくすぐりフェチならずとも好きなはず！
+
+---
+
+### 🎬 [禁忌 理性と欲望の狭間で揺れ、淫靡に乱れる熟女母 36人8時間BEST](https://tv.dmm.co.jp/vod/detail/?title_id=h_460mbma00030)
+
+**ID**: `h_460mbma00030` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_460mbma00030/h_460mbma00030pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_460mbma00030/h_460mbma00030pl.jpg)
+
+> 人間の理性とは…かくも脆いものです。してはイケない相手との、してはいけない行為、ひとたび、その一線を越えたら最後、禁忌に浸る背徳感が強烈な快楽を生み出し、後戻りの出来ない肉欲まみれの生活へと堕ちていきます。禁忌の背徳感と共に熟女ならではの味わい深く淫靡なエロさを存分にお楽しみ頂きたい逸品です。
+
+---
+
+### 🎬 [昨日食べた物をもう一度食べる！脱糞カレーライス！](https://tv.dmm.co.jp/vod/detail/?title_id=h_189pc00059)
+
+**ID**: `h_189pc00059` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_189pc00059/h_189pc00059pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_189pc00059/h_189pc00059pl.jpg)
+
+> 9人のうんちシェフの究極カレーをどうぞ召し上がれ♪いっぱい溜め込んだうんちをごはんにぶっかけいただきます！超マニア映像満載です。
+
+---
+
+### 🎬 [身バレ気にする変態取締役達の性癖 会社に内緒のスカ事情](https://tv.dmm.co.jp/vod/detail/?title_id=h_189pc00058)
+
+**ID**: `h_189pc00058` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_189pc00058/h_189pc00058pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_189pc00058/h_189pc00058pl.jpg)
+
+> 変態たちの宴を完全盗撮。高貴な人種の性癖事情の数々を収録。会社はもちろん家族や友人にも話せない性癖。排泄観賞、顔面脱糞、食糞、飲尿等々。
+
+---
+
+### 🎬 [【配信専用】DOC 超・主観フェラチオ 可愛い娘ばっっかり福袋！！ 総勢50名1011分 永久保存版vol.03](https://tv.dmm.co.jp/vod/detail/?title_id=h_1711long00023)
+
+**ID**: `h_1711long00023` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `暂无` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_1711long00023/h_1711long00023pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_1711long00023/h_1711long00023pl.jpg)
+
+> 総勢50名…可愛い娘ばっかの最高のフェラチオを集めた超豪華福袋！！永久保存版！！ジュルッ、ジュルルルゥッ…じゅぼじゅぼと音を立てイヤらしく、美味しそうにち●ぽをしゃぶるエッロい女が大集合…主観でじっくり楽しめちゃう！！見応えありまくりの1000分OVER！！十人十色変幻自在の舌技で精子をたっぷり搾り...
 
 ---
 
