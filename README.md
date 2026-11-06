@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-11-05 21:49:28 (UTC)`
-> **独家影片**: `18` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-11-06 21:22:41 (UTC)`
+> **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -183,6 +183,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_1711long00023/h_1711long00023pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_1711long00023/h_1711long00023pl.jpg)
 
 > 総勢50名…可愛い娘ばっかの最高のフェラチオを集めた超豪華福袋！！永久保存版！！ジュルッ、ジュルルルゥッ…じゅぼじゅぼと音を立てイヤらしく、美味しそうにち●ぽをしゃぶるエッロい女が大集合…主観でじっくり楽しめちゃう！！見応えありまくりの1000分OVER！！十人十色変幻自在の舌技で精子をたっぷり搾り...
+
+---
+
+### 🎬 [女性限定！素人ナンパ！ 枢木あおいと気持ちいいことしませんか？全力体当たりレズビアンSEX！](https://tv.dmm.co.jp/vod/detail/?title_id=bban00313)
+
+**ID**: `bban00313` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.33` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-12-06`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00313/bban00313pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00313/bban00313pl.jpg)
+
+> 【枢木あおい×真咲南朋】皆さんお待たせしました！’くるるん’こと枢木あおいがついに、ビビアン大人気「素人ナンパレズ」シリーズに登場！！街中で見つけた可愛い素人さんを口説いてナンパチャレンジ！素人女性の気持ちいいトコロをくるるんが全力エッチで責めてイカせまくります！エロボディのOLさんもノンケの人妻さ...
 
 ---
 
