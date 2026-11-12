@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-11-11 22:32:03 (UTC)`
-> **独家影片**: `19` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-11-12 22:07:44 (UTC)`
+> **独家影片**: `20` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -193,6 +193,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00467/mdud00467pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/mdud00467/mdud00467pl.jpg)
 
 > 大ヒット『素人生ドル』シリーズの石橋渉監督がさらに過激になって帰ってきた！街の中はマスクを付けている人ばかり。だからこそできた、目元だけならばれないからと女の子も過激にエスカレート！生ハメを受け入れ終にはガチ中出しまで受け入れちゃいます！素人娘の性がここにあり！
+
+---
+
+### 🎬 [レズビアンに囚われた女潜入捜査官 ～ウィルス研究所の冤罪に隠された真実の闇～ 吉根ゆりあ 晶エリー](https://tv.dmm.co.jp/vod/detail/?title_id=bban00303)
+
+**ID**: `bban00303` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `4.13` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-12-12`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00303/bban00303pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00303/bban00303pl.jpg)
+
+> 【吉根ゆりあレズ解禁！】世界に蔓延し恐怖に陥れる「殺●ウィルス」…それが人為的に作られたものだと睨んだエリート捜査官のゆりあは、ついに殺●ウィルス研究所の尻尾を掴むことに成功する。しかし後にそれが誤認逮捕とされてしまう。「絶対に何か裏があるはず…」諦めきれないゆりあは単身研究所の正体を追う。憧れの晶...
 
 ---
 
