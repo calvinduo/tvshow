@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-11-12 22:07:44 (UTC)`
-> **独家影片**: `20` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-11-13 21:50:24 (UTC)`
+> **独家影片**: `21` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -203,6 +203,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00303/bban00303pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00303/bban00303pl.jpg)
 
 > 【吉根ゆりあレズ解禁！】世界に蔓延し恐怖に陥れる「殺●ウィルス」…それが人為的に作られたものだと睨んだエリート捜査官のゆりあは、ついに殺●ウィルス研究所の尻尾を掴むことに成功する。しかし後にそれが誤認逮捕とされてしまう。「絶対に何か裏があるはず…」諦めきれないゆりあは単身研究所の正体を追う。憧れの晶...
+
+---
+
+### 🎬 [女をトロットロにさせる焦らし・耳舐め・全身愛撫レズビアン](https://tv.dmm.co.jp/vod/detail/?title_id=bban00310)
+
+**ID**: `bban00310` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.94` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-12-13`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00310/bban00310pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00310/bban00310pl.jpg)
+
+> 「さぁ、今日から壊れちゃうまで、私たちと遊びましょう」深田えいみがある日突然、謎の痴女3人組に監禁されトロットロに蕩けきるまで徹底的に弄ばれる！いやらしい両耳舐め、全身舐め、愛液あふれる愛撫…ペニバンSEX，痴女3Pイカセ、媚薬と筆を使った痴女達の焦らし…ワケも分からないまま痴女達のレズ玩具にされ圧...
 
 ---
 
