@@ -1,7 +1,7 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-11-17 23:24:11 (UTC)`
-> **独家影片**: `24` 部 (已过滤 PREMIUM 内容)
+> **最后更新**: `2026-11-18 22:52:51 (UTC)`
+> **独家影片**: `25` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
 ---
@@ -243,6 +243,16 @@
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/ardb00003/ardb00003pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/ardb00003/ardb00003pl.jpg)
 
 > やっぱりアロマ企画は男が全員されるがままの完全女性上位のやられ放題がイイネ！担当者厳選の売れ筋タイトルをまるごと収録！寝ないで1日中オナニーしてもまだまだシコれてしまう大変贅沢な福袋セットです！！夢のハーレムも腿コキもデカ尻も美巨乳も楽しめるお得な内容にち○ぽの満足度120％超え間違いなし！ち〇ぽが...
+
+---
+
+### 🎬 [欲求不満のイマドキギャルが女ばっかりの学校で性欲を発散する方法を考えた。そうだ！女同士でエッチすればいいんじゃん！](https://tv.dmm.co.jp/vod/detail/?title_id=bban00320)
+
+**ID**: `bban00320` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3.83` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-12-18`
+
+[<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00320/bban00320pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/bban00320/bban00320pl.jpg)
+
+> 女だけの学校に入学しちゃったばっかりに私の青春は…ってか性欲が全然発散できな～い。ヤリたい盛りのギャル3人が性欲発散するなら女同士でやっちゃえばいいじゃん！ってことで3人で仲良くレズりまくってイキまくる！女の子同士のほうが普通のSEXよりも気持ちいいかも！！！みんなでまたエッチしようね！
 
 ---
 
