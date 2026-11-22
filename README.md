@@ -1,6 +1,6 @@
 # 🚨 Fanza TV Plus 独家即将下架影片
 
-> **最后更新**: `2026-11-21 21:30:14 (UTC)`
+> **最后更新**: `2026-11-22 21:37:04 (UTC)`
 > **独家影片**: `26` 部 (已过滤 PREMIUM 内容)
 > 💡 **提示**: 点击【影片标题】跳转至 DMM 播放页；点击【封面图】查看高清大图。
 
@@ -38,7 +38,7 @@
 
 ### 🎬 [ビキニグラマラス 中出しリゾート 八ッ橋さい子](https://tv.dmm.co.jp/vod/detail/?title_id=h_172hmgl00139)
 
-**ID**: `h_172hmgl00139` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `2.8` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
+**ID**: `h_172hmgl00139` &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **评分**: `3` &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ **下架日期**: `2026-11-30`
 
 [<img src='https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00139/h_172hmgl00139pl.jpg' width='800'>](https://awsimgsrc.dmm.co.jp/dig_white/digital/video/h_172hmgl00139/h_172hmgl00139pl.jpg)
 
